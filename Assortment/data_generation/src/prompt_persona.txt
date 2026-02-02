@@ -1,0 +1,600 @@
+User 10007 is a female aged 20–29. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 0 9 6 3 7 2 8 1 5 4
+User 8081 is a female aged 20–29. They grew up in Osaka (Kinki, Western Japan), but currently live in Kagawa (Shikoku, Western Japan). Ranks the sushi as: 8 6 5 0 3 9 2 7 4 1
+User 9733 is a female aged 30–39. They grew up in Hiroshima (Chugoku, Western Japan), but currently live in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 3 4 0 5 9 6 7 8 2 1
+User 5273 is a male aged 30–39. They grew up in Miyagi (Tohoku, Eastern Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 0 6 8 7 9 1 5 4 3
+User 8270 is a female aged 20–29. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 3 7 2 5 6 8 0 1 9 4
+User 6665 is a male aged 40–49. They have spent most of their life in Okayama (Chugoku, Western Japan). Ranks the sushi as: 5 7 1 4 2 0 8 3 9 6
+User 1610 is a female aged 20–29. They have spent most of their life in Mie (Chukyo, Eastern Japan). Ranks the sushi as: 7 2 5 4 3 0 8 1 6 9
+User 3173 is a male aged 40–49. They have spent most of their life in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 4 7 1 2 8 6 9 3 5 0
+User 1585 is a female aged 40–49. They grew up in Kagoshima (Kyushu, Western Japan), but currently live in Oita (Kyushu, Western Japan). Ranks the sushi as: 7 8 3 1 0 6 2 4 9 5
+User 4361 is a male aged 30–39. They grew up in Hyogo (Kinki, Western Japan), but currently live in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 1 5 7 8 6 0 4 2 3 9
+User 5743 is a male aged 30–39. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Gunma (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 2 1 8 5 6 4 0 3 9
+User 6211 is a male aged 30–39. They have spent most of their life in Tochigi (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 4 5 1 0 2 8 3 6 9
+User 1975 is a female aged 20–29. They grew up in Okayama (Chugoku, Western Japan), but currently live in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 9 8 5 3 6 2 0 1 4 7
+User 1344 is a female aged 15–19. They have spent most of their life in Hyogo (Kinki, Western Japan). Ranks the sushi as: 7 8 9 2 5 6 3 0 1 4
+User 8103 is a female aged 20–29. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 5 4 8 0 6 3 9 1 7
+User 3903 is a male aged 30–39. They have spent most of their life in Miyagi (Tohoku, Eastern Japan). Ranks the sushi as: 7 4 1 0 2 3 6 5 9 8
+User 5435 is a male aged 50–59. They have spent most of their life in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 4 7 1 0 3 5 6 2 8 9
+User 10049 is a female aged 15–19. They have spent most of their life in Shizuoka (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 7 2 3 0 8 5 6 1 9
+User 1789 is a male aged 20–29. They have spent most of their life in Kagoshima (Kyushu, Western Japan). Ranks the sushi as: 4 5 7 0 1 3 6 9 2 8
+User 3015 is a male aged 60+. They have spent most of their life in Miyagi (Tohoku, Eastern Japan). Ranks the sushi as: 7 2 8 4 3 5 1 6 9 0
+User 5987 is a male aged 20–29. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 6 1 5 7 0 2 8 3 4 9
+User 9558 is a female aged 30–39. They grew up in Kanagawa (Kanto and Shizuoka, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 5 1 4 8 2 3 6 0 9
+User 6493 is a male aged 30–39. They have spent most of their life in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 2 8 1 5 6 4 3 9 0
+User 10079 is a female aged 20–29. They have spent most of their life in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 7 2 6 8 3 5 1 9 4 0
+User 3687 is a male aged 20–29. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 2 6 7 5 0 8 1 4 9 3
+User 1782 is a male aged 30–39. They have spent most of their life in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 0 7 5 4 1 3 2 8 9 6
+User 5407 is a male aged 20–29. They have spent most of their life in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 6 1 7 0 8 2 3 9 4 5
+User 4353 is a male aged 50–59. They grew up in Fukuoka (Kyushu, Western Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 1 0 5 2 3 4 8 6 9
+User 4159 is a male aged 50–59. They grew up in Kumamoto (Kyushu, Western Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 5 3 4 2 7 8 9 1 6 0
+User 9827 is a female aged 15–19. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 7 8 3 9 1 2 5 6 4
+User 9393 is a female aged 20–29. They grew up in Hokkaido (Hokkaido, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 3 0 2 9 8 4 1 5 6
+User 3019 is a male aged 30–39. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 0 4 7 5 2 8 1 3 6 9
+User 9593 is a female aged 40–49. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 7 2 0 8 3 5 4 6 9
+User 5271 is a male aged 20–29. They have spent most of their life in Kyoto (Kinki, Western Japan). Ranks the sushi as: 2 6 8 3 0 4 7 1 9 5
+User 3719 is a male aged 40–49. They have spent most of their life in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 3 7 4 5 1 2 8 0 9 6
+User 9845 is a female aged 15–19. They have spent most of their life in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 8 2 0 9 5 6 1 3 4
+User 8219 is a female aged 20–29. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 4 7 2 3 5 0 8 1 6 9
+User 3567 is a male aged 40–49. They have spent most of their life in Ehime (Shikoku, Western Japan). Ranks the sushi as: 7 3 0 5 6 2 4 8 9 1
+User 1064 is a female aged 40–49. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 7 5 2 3 0 8 9 1 6
+User 4747 is a male aged 40–49. They have spent most of their life in Kumamoto (Kyushu, Western Japan). Ranks the sushi as: 0 7 2 8 3 4 5 6 1 9
+User 3935 is a male aged 20–29. They have spent most of their life in Hiroshima (Chugoku, Western Japan). Ranks the sushi as: 4 1 5 3 7 8 2 9 0 6
+User 9008 is a female aged 40–49. They have spent most of their life in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 3 7 2 6 8 1 4 5 9
+User 3365 is a male aged 30–39. They have spent most of their life in Fukushima (Tohoku, Eastern Japan). Ranks the sushi as: 5 4 7 3 2 8 6 1 9 0
+User 9880 is a female aged 20–29. They grew up in Aomori (Tohoku, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 7 1 6 0 3 2 5 8 9
+User 3541 is a male aged 30–39. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 8 6 2 9 4 3 5 1 0
+User 0 is a male aged 30–39. They grew up in Osaka (Kinki, Western Japan), but currently live in Ibaraki (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 7 4 6 2 0 8 5 3 9
+User 1575 is a male aged 50–59. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 1 6 8 9 2 5 7 4 0 3
+User 6509 is a male aged 20–29. They have spent most of their life in Kagoshima (Kyushu, Western Japan). Ranks the sushi as: 1 5 4 2 3 6 0 7 8 9
+User 1734 is a female aged 20–29. They grew up in Yamanashi (Nagano and Yamanashi, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 7 5 2 1 8 0 3 6 9
+User 1514 is a female aged 20–29. They have spent most of their life in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 1 0 2 3 6 8 5 9 4
+User 1677 is a female aged 20–29. They have spent most of their life in Kagoshima (Kyushu, Western Japan). Ranks the sushi as: 0 2 8 7 1 3 9 6 5 4
+User 1604 is a female aged 30–39. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 2 0 3 8 5 7 9 6 1
+User 4021 is a male aged 20–29. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 0 3 6 1 8 7 2 5 4 9
+User 9626 is a female aged 50–59. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 7 4 5 0 3 2 8 1 9 6
+User 8342 is a female aged 20–29. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 5 2 1 0 4 3 8 6 9
+User 1855 is a male aged 40–49. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 1 3 0 4 8 2 5 7 9 6
+User 1991 is a female aged 30–39. They have spent most of their life in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 7 3 2 4 0 5 8 1 9 6
+User 5065 is a male aged 30–39. They have spent most of their life in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 1 2 8 4 0 7 5 3 6 9
+User 5763 is a male aged 40–49. They have spent most of their life in Aomori (Tohoku, Eastern Japan). Ranks the sushi as: 0 5 9 4 2 8 7 3 1 6
+User 6833 is a male aged 30–39. They have spent most of their life in Okayama (Chugoku, Western Japan). Ranks the sushi as: 2 7 8 9 1 0 3 6 4 5
+User 4169 is a male aged 30–39. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 4 5 1 0 2 8 3 9 6
+User 9877 is a female aged 15–19. They have spent most of their life in Hiroshima (Chugoku, Western Japan). Ranks the sushi as: 7 0 2 5 8 9 3 6 1 4
+User 9946 is a female aged 20–29. They grew up in Ibaraki (Kanto and Shizuoka, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 7 8 5 6 1 9 0 3 4
+User 5717 is a male aged 40–49. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 2 6 1 9 5 0 8 3 4
+User 9481 is a female aged 20–29. They have spent most of their life in Miyagi (Tohoku, Eastern Japan). Ranks the sushi as: 7 1 4 8 2 0 3 6 9 5
+User 1294 is a male aged 30–39. They grew up in Nagano (Nagano and Yamanashi, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 4 5 2 0 8 3 1 9 6
+User 7083 is a male aged 30–39. They grew up in Fukuoka (Kyushu, Western Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 4 7 1 0 3 9 2 8 6
+User 8947 is a female aged 20–29. They have spent most of their life in Hiroshima (Chugoku, Western Japan). Ranks the sushi as: 0 4 3 6 7 5 2 1 8 9
+User 6439 is a male aged 30–39. They have spent most of their life in Ibaraki (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 1 2 0 8 4 5 6 3 9
+User 8614 is a female aged 20–29. They have spent most of their life in Hokkaido (Hokkaido, Eastern Japan). Ranks the sushi as: 0 1 7 3 4 6 5 2 8 9
+User 8037 is a female aged 30–39. They have spent most of their life in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 1 7 2 6 3 8 9 5 0
+User 8584 is a female aged 40–49. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 7 0 4 3 8 5 2 6 9
+User 8728 is a female aged 20–29. They have spent most of their life in Kagoshima (Kyushu, Western Japan). Ranks the sushi as: 5 0 7 4 6 2 9 8 1 3
+User 3863 is a male aged 30–39. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 7 4 2 5 1 0 8 3 9 6
+User 6719 is a male aged 40–49. They grew up in Hyogo (Kinki, Western Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 8 7 3 2 4 6 0 5 9
+User 8200 is a female aged 20–29. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 8 9 7 2 6 1 3 0 4
+User 9729 is a female aged 20–29. They have spent most of their life in Okayama (Chugoku, Western Japan). Ranks the sushi as: 3 6 0 9 8 1 7 2 5 4
+User 9969 is a female aged 15–19. They have spent most of their life in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 6 7 9 5 0 1 4 3 8 2
+User 1717 is a female aged 20–29. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 5 6 0 3 9 7 8 2 1 4
+User 9668 is a female aged 30–39. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 4 5 2 8 1 6 3 0 9
+User 9045 is a female aged 30–39. They grew up in Chiba (Kanto and Shizuoka, Eastern Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 1 7 5 0 3 8 2 6 9
+User 1243 is a male aged 30–39. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 6 0 2 1 5 4 8 3 9
+User 5351 is a male aged 40–49. They grew up in Miyagi (Tohoku, Eastern Japan), but currently live in Fukushima (Tohoku, Eastern Japan). Ranks the sushi as: 7 2 4 3 5 1 0 6 8 9
+User 8607 is a female aged 20–29. They have spent most of their life in Fukuoka (Kyushu, Western Japan). Ranks the sushi as: 0 7 3 6 4 1 8 2 5 9
+User 3341 is a male aged 50–59. They grew up in Hyogo (Kinki, Western Japan), but currently live in Okayama (Chugoku, Western Japan). Ranks the sushi as: 7 1 4 5 0 6 2 3 8 9
+User 10038 is a female aged 20–29. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 9 2 8 7 0 3 5 6 4 1
+User 8090 is a female aged 50–59. They grew up in Iwate (Tohoku, Eastern Japan), but currently live in Hokkaido (Hokkaido, Eastern Japan). Ranks the sushi as: 4 1 0 8 5 2 7 9 3 6
+User 9736 is a female aged 30–39. They have spent most of their life in Akita (Tohoku, Eastern Japan). Ranks the sushi as: 1 8 0 9 5 6 3 7 2 4
+User 5231 is a male aged 20–29. They grew up in Hyogo (Kinki, Western Japan), but currently live in Nara (Kinki, Western Japan). Ranks the sushi as: 6 8 3 2 1 7 9 0 4 5
+User 5683 is a male aged 60+. They grew up in Hyogo (Kinki, Western Japan), but currently live in Kagoshima (Kyushu, Western Japan). Ranks the sushi as: 2 9 7 0 5 8 1 3 4 6
+User 6651 is a male aged 50–59. They grew up in Toyama (Hokuriku, Eastern Japan), but currently live in Hokkaido (Hokkaido, Eastern Japan). Ranks the sushi as: 7 1 6 2 9 5 0 4 3 8
+User 3145 is a male aged 50–59. They grew up in Okayama (Chugoku, Western Japan), but currently live in Hiroshima (Chugoku, Western Japan). Ranks the sushi as: 8 2 7 4 5 3 1 0 6 9
+User 1599 is a female aged 30–39. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 2 5 0 4 1 3 6 8 9
+User 6419 is a male aged 40–49. They have spent most of their life in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 5 1 0 3 6 9 4 7 8 2
+User 3859 is a male aged 40–49. They grew up in Tokushima (Shikoku, Western Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 6 8 2 0 7 1 9 4 5 3
+User 5481 is a male aged 20–29. They grew up in Akita (Tohoku, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 8 1 5 3 9 2 7 6 4 0
+User 1400 is a female aged 30–39. They have spent most of their life in Hyogo (Kinki, Western Japan). Ranks the sushi as: 4 7 0 3 5 6 1 2 8 9
+User 1655 is a male aged 30–39. They have spent most of their life in Fukui (Hokuriku, Eastern Japan). Ranks the sushi as: 6 3 0 1 9 7 2 5 4 8
+User 8917 is a female aged 20–29. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 5 7 1 0 2 6 8 3 9 4
+User 7157 is a male aged 30–39. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 4 2 5 7 3 0 8 9 6
+User 10108 is a female aged 20–29. They have spent most of their life in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 4 7 5 2 3 6 9 1 8
+User 8931 is a female aged 20–29. They have spent most of their life in Fukuoka (Kyushu, Western Japan). Ranks the sushi as: 7 5 0 2 1 3 6 4 8 9
+User 9392 is a female aged 20–29. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 5 1 0 2 8 6 3 9 4
+User 8510 is a female aged 40–49. They have spent most of their life in Fukuoka (Kyushu, Western Japan). Ranks the sushi as: 0 4 1 5 3 9 8 7 6 2
+User 9250 is a female aged 30–39. They grew up in Saitama (Kanto and Shizuoka, Eastern Japan), but currently live in Yamanashi (Nagano and Yamanashi, Eastern Japan). Ranks the sushi as: 0 7 2 1 8 3 6 9 4 5
+User 1491 is a female aged 20–29. They have spent most of their life in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 0 4 7 8 2 6 5 3 9
+User 8101 is a female aged 30–39. They have spent most of their life in Gifu (Chukyo, Eastern Japan). Ranks the sushi as: 4 1 8 7 5 2 0 3 9 6
+User 6909 is a male aged 30–39. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 4 5 2 8 9 6 0 1 3
+User 2001 is a male aged 20–29. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 3 0 6 7 9 5 2 4 8 1
+User 3243 is a male aged 30–39. They have spent most of their life in Toyama (Hokuriku, Eastern Japan). Ranks the sushi as: 7 4 3 1 0 5 9 8 2 6
+User 1338 is a female aged 20–29. They grew up in Tochigi (Kanto and Shizuoka, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 1 4 5 7 6 9 8 3 2
+User 8704 is a female aged 20–29. They grew up in Shizuoka (Kanto and Shizuoka, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 4 2 5 3 1 0 9 8 6
+User 9444 is a female aged 30–39. They have spent most of their life in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 1 7 3 6 0 4 5 8 9 2
+User 2035 is a male aged 40–49. They have spent most of their life in Hokkaido (Hokkaido, Eastern Japan). Ranks the sushi as: 7 8 2 0 3 1 5 9 4 6
+User 8093 is a female aged 20–29. They grew up in Hyogo (Kinki, Western Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 1 4 7 8 6 5 2 3 0 9
+User 9048 is a female aged 40–49. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 7 0 1 4 9 6 8 3 2
+User 1894 is a female aged 30–39. They grew up in Saitama (Kanto and Shizuoka, Eastern Japan), but currently live in Yamanashi (Nagano and Yamanashi, Eastern Japan). Ranks the sushi as: 1 3 6 0 5 2 4 7 8 9
+User 6571 is a male aged 30–39. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 5 6 3 2 9 8 1 0 4
+User 9871 is a female aged 30–39. They grew up in Hokkaido (Hokkaido, Eastern Japan), but currently live in Nagano (Nagano and Yamanashi, Eastern Japan). Ranks the sushi as: 7 2 5 1 4 8 9 0 6 3
+User 3827 is a male aged 20–29. They grew up in Nagano (Nagano and Yamanashi, Eastern Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 0 5 1 7 2 6 4 8 3 9
+User 3879 is a male aged 30–39. They grew up in Hyogo (Kinki, Western Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 7 0 1 2 6 3 8 4 9 5
+User 9510 is a female aged 30–39. They have spent most of their life in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 9 7 2 8 3 1 6 4 0 5
+User 3075 is a male aged 30–39. They grew up in Kanagawa (Kanto and Shizuoka, Eastern Japan), but currently live in Nara (Kinki, Western Japan). Ranks the sushi as: 4 5 1 7 6 8 3 2 0 9
+User 3651 is a male aged 40–49. They have spent most of their life in Shizuoka (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 6 0 7 8 5 4 2 3 9
+User 4897 is a male aged 20–29. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 7 4 5 0 2 1 6 3 8 9
+User 10100 is a female aged 20–29. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 5 4 0 3 2 8 1 6 9
+User 9233 is a female aged 20–29. They have spent most of their life in Yamaguchi (Chugoku, Western Japan). Ranks the sushi as: 5 0 1 3 6 9 7 2 8 4
+User 6945 is a male aged 15–19. They have spent most of their life in Miyagi (Tohoku, Eastern Japan). Ranks the sushi as: 4 3 1 9 5 6 7 2 8 0
+User 1254 is a female aged 30–39. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 5 2 3 0 8 1 4 9 6
+User 1835 is a female aged 20–29. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 1 4 5 7 2 8 3 0 6 9
+User 6221 is a male aged 30–39. They grew up in Fukui (Hokuriku, Eastern Japan), but currently live in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 2 5 0 8 4 3 9 6 1
+User 3561 is a male aged 40–49. They have spent most of their life in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 4 7 2 5 0 3 8 9 6 1
+User 9402 is a female aged 15–19. They have spent most of their life in Shizuoka (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 2 7 6 4 0 8 5 3 9
+User 5021 is a male aged 30–39. They grew up in Osaka (Kinki, Western Japan), but currently live in Shizuoka (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 4 5 0 2 3 1 6 8 9
+User 4423 is a male aged 30–39. They have spent most of their life in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 7 3 1 0 9 2 8 6 5 4
+User 1299 is a male aged 50–59. They have spent most of their life in Nagano (Nagano and Yamanashi, Eastern Japan). Ranks the sushi as: 0 5 4 1 6 9 3 8 2 7
+User 1306 is a male aged 40–49. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 2 8 7 3 6 9 1 5 4
+User 6161 is a male aged 50–59. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 6 3 2 9 7 8 0 1 4
+User 4565 is a male aged 20–29. They grew up in Mie (Chukyo, Eastern Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 5 7 3 0 8 2 9 1 6
+User 8678 is a female aged 20–29. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 3 9 6 8 1 5 4 7 2
+User 9310 is a female aged 15–19. They have spent most of their life in Niigata (Hokuriku, Eastern Japan). Ranks the sushi as: 0 3 8 7 6 9 2 5 1 4
+User 4765 is a male aged 30–39. They grew up in Ibaraki (Kanto and Shizuoka, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 0 6 2 1 3 8 5 9 4
+User 1206 is a female aged 30–39. They have spent most of their life in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 4 5 9 6 2 8 0 3 1
+User 9707 is a female aged 30–39. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 0 1 7 2 6 5 8 3 9 4
+User 1767 is a female aged 40–49. They have spent most of their life in Hyogo (Kinki, Western Japan). Ranks the sushi as: 0 5 4 3 7 1 2 8 9 6
+User 8619 is a female aged 30–39. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 5 7 1 2 9 6 3 0 8
+User 10077 is a female aged 20–29. They grew up in Yamaguchi (Chugoku, Western Japan), but currently live in Shiga (Kinki, Western Japan). Ranks the sushi as: 4 5 7 2 3 0 6 1 8 9
+User 1757 is a female aged 30–39. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 4 1 7 0 6 2 8 9 5 3
+User 9470 is a female aged 30–39. They have spent most of their life in Hokkaido (Hokkaido, Eastern Japan). Ranks the sushi as: 3 1 0 8 7 2 6 9 5 4
+User 9180 is a female aged 30–39. They have spent most of their life in Hokkaido (Hokkaido, Eastern Japan). Ranks the sushi as: 7 4 6 8 1 2 0 3 5 9
+User 10102 is a female aged 20–29. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 3 1 7 0 8 4 2 6 5 9
+User 8806 is a female aged 20–29. They grew up in Fukushima (Tohoku, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 5 0 6 2 8 1 3 9 4
+User 9354 is a female aged 20–29. They have spent most of their life in Fukushima (Tohoku, Eastern Japan). Ranks the sushi as: 3 7 5 2 0 9 8 1 6 4
+User 8374 is a female aged 30–39. They have spent most of their life in Fukuoka (Kyushu, Western Japan). Ranks the sushi as: 5 7 3 9 0 2 4 8 6 1
+User 1758 is a male aged 40–49. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 3 1 5 7 2 8 9 0 4 6
+User 1093 is a female aged 15–19. They have spent most of their life in Hyogo (Kinki, Western Japan). Ranks the sushi as: 4 5 0 7 2 3 1 8 9 6
+User 8686 is a female aged 20–29. They grew up in Niigata (Hokuriku, Eastern Japan), but currently live in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 4 1 0 3 7 8 6 9 5
+User 6635 is a male aged 40–49. They grew up in Aichi (Chukyo, Eastern Japan), but currently live in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 7 5 3 8 9 0 6 1 4
+User 6503 is a male aged 40–49. They have spent most of their life in Hiroshima (Chugoku, Western Japan). Ranks the sushi as: 3 1 0 8 2 7 6 9 5 4
+User 4061 is a male aged 30–39. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 2 1 4 5 3 8 6 9 0
+User 6797 is a male aged 40–49. They have spent most of their life in Kyoto (Kinki, Western Japan). Ranks the sushi as: 2 8 3 7 0 1 9 6 5 4
+User 4763 is a male aged 20–29. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 7 4 8 0 6 3 1 5 9
+User 9085 is a female aged 20–29. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 5 2 3 8 9 7 6 1 0
+User 8325 is a female aged 20–29. They grew up in Tochigi (Kanto and Shizuoka, Eastern Japan), but currently live in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 6 5 1 2 0 8 4 7 9 3
+User 8060 is a female aged 30–39. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 3 6 5 8 1 7 2 0 4 9
+User 3987 is a male aged 20–29. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 6 0 1 2 7 8 9 4 3 5
+User 4265 is a male aged 50–59. They have spent most of their life in Fukushima (Tohoku, Eastern Japan). Ranks the sushi as: 4 7 3 2 8 9 5 0 6 1
+User 9473 is a female aged 20–29. They have spent most of their life in Hyogo (Kinki, Western Japan). Ranks the sushi as: 7 2 4 8 1 0 5 3 6 9
+User 7201 is a male aged 30–39. They have spent most of their life in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 5 4 0 7 3 2 8 6 9
+User 7193 is a male aged 30–39. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 0 7 2 3 6 8 9 1 4
+User 3371 is a male aged 40–49. They grew up in Aichi (Chukyo, Eastern Japan), but currently live in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 4 5 3 7 2 6 9 8 1
+User 1578 is a male aged 30–39. They have spent most of their life in Kyoto (Kinki, Western Japan). Ranks the sushi as: 1 2 3 7 8 0 6 5 9 4
+User 1428 is a male aged 20–29. They grew up in Kagoshima (Kyushu, Western Japan), but currently live in Miyagi (Tohoku, Eastern Japan). Ranks the sushi as: 4 0 3 5 1 7 6 9 2 8
+User 1698 is a female aged 40–49. They grew up in Aichi (Chukyo, Eastern Japan), but currently live in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 3 1 7 2 4 5 8 0 9 6
+User 9166 is a female aged 30–39. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 3 4 1 2 0 8 5 6 9
+User 1794 is a female aged 20–29. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 0 7 3 8 6 4 1 9 2
+User 8046 is a female aged 30–39. They grew up in Hiroshima (Chugoku, Western Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 4 5 7 2 3 1 8 9 6
+User 9544 is a female aged 20–29. They have spent most of their life in Niigata (Hokuriku, Eastern Japan). Ranks the sushi as: 7 5 4 2 6 3 1 8 9 0
+User 4177 is a male aged 30–39. They have spent most of their life in Ibaraki (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 7 0 2 5 3 8 4 6 9
+User 6681 is a male aged 40–49. They grew up in Niigata (Hokuriku, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 2 1 0 8 6 5 3 4 9
+User 3445 is a male aged 40–49. They grew up in Chiba (Kanto and Shizuoka, Eastern Japan), but currently live in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 1 8 0 6 7 3 9 4 5
+User 5615 is a male aged 20–29. They have spent most of their life in Gifu (Chukyo, Eastern Japan). Ranks the sushi as: 7 0 2 4 8 5 3 6 9 1
+User 8757 is a female aged 20–29. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 7 3 2 8 9 0 5 1 6
+User 8763 is a female aged 20–29. They have spent most of their life in Kyoto (Kinki, Western Japan). Ranks the sushi as: 7 1 2 5 9 6 0 8 3 4
+User 8264 is a female aged 30–39. They grew up in Yamanashi (Nagano and Yamanashi, Eastern Japan), but currently live in Niigata (Hokuriku, Eastern Japan). Ranks the sushi as: 7 4 8 1 5 0 2 9 3 6
+User 9293 is a female aged 40–49. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 7 1 0 2 8 3 6 9 4 5
+User 6051 is a male aged 30–39. They have spent most of their life in Niigata (Hokuriku, Eastern Japan). Ranks the sushi as: 1 8 0 2 5 6 7 9 4 3
+User 1292 is a female aged 15–19. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 3 0 4 1 5 6 2 8 9 7
+User 9415 is a female aged 30–39. They grew up in Kyoto (Kinki, Western Japan), but currently live in Shiga (Kinki, Western Japan). Ranks the sushi as: 5 7 2 1 8 3 6 4 9 0
+User 8243 is a female aged 30–39. They grew up in Osaka (Kinki, Western Japan), but currently live in Shimane (Chugoku, Western Japan). Ranks the sushi as: 7 2 0 6 3 8 9 4 1 5
+User 8489 is a female aged 20–29. They grew up in Kumamoto (Kyushu, Western Japan), but currently live in Fukuoka (Kyushu, Western Japan). Ranks the sushi as: 4 5 7 8 2 6 3 9 1 0
+User 8550 is a female aged 30–39. They grew up in Hokkaido (Hokkaido, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 7 8 2 3 5 1 6 9 4
+User 1903 is a female aged 20–29. They have spent most of their life in Nagano (Nagano and Yamanashi, Eastern Japan). Ranks the sushi as: 7 5 2 0 4 3 1 6 8 9
+User 3629 is a male aged 40–49. They grew up in Chiba (Kanto and Shizuoka, Eastern Japan), but currently live in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 3 4 7 6 5 2 8 0 9
+User 1249 is a male aged 50–59. They grew up in Shimane (Chugoku, Western Japan), but currently live in Gunma (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 8 7 2 1 3 0 5 6 9 4
+User 8517 is a female aged 40–49. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 4 7 0 3 2 5 6 8 9
+User 4207 is a male aged 30–39. They have spent most of their life in Mie (Chukyo, Eastern Japan). Ranks the sushi as: 5 4 7 0 1 2 8 3 9 6
+User 6917 is a male aged 30–39. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 1 4 2 5 3 7 8 6 0 9
+User 10067 is a female aged 20–29. They have spent most of their life in Kyoto (Kinki, Western Japan). Ranks the sushi as: 0 3 5 7 6 9 2 1 4 8
+User 1869 is a male aged 20–29. They have spent most of their life in Ibaraki (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 2 8 3 1 9 7 6 4 5
+User 4815 is a male aged 20–29. They grew up in Kanagawa (Kanto and Shizuoka, Eastern Japan), but currently live in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 8 1 2 5 7 0 3 4 9 6
+User 4945 is a male aged 50–59. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 1 3 0 6 5 8 7 9 4
+User 8457 is a female aged 20–29. They grew up in Kanagawa (Kanto and Shizuoka, Eastern Japan), but currently live in Nagano (Nagano and Yamanashi, Eastern Japan). Ranks the sushi as: 8 2 3 1 7 9 0 6 5 4
+User 5447 is a male aged 20–29. They grew up in Ibaraki (Kanto and Shizuoka, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 0 2 5 8 4 3 1 6 9
+User 8563 is a female aged 30–39. They have spent most of their life in Hyogo (Kinki, Western Japan). Ranks the sushi as: 6 2 0 7 9 8 3 1 5 4
+User 9338 is a female aged 20–29. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 3 6 8 9 1 5 7 2 4
+User 8049 is a female aged 50–59. They have spent most of their life in Hiroshima (Chugoku, Western Japan). Ranks the sushi as: 5 0 3 1 4 7 8 6 2 9
+User 3805 is a male aged 30–39. They have spent most of their life in Shiga (Kinki, Western Japan). Ranks the sushi as: 8 2 7 3 0 6 1 4 9 5
+User 8305 is a female aged 20–29. They grew up in Ibaraki (Kanto and Shizuoka, Eastern Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 1 8 6 9 2 3 7 4 5
+User 4415 is a male aged 50–59. They have spent most of their life in Kagoshima (Kyushu, Western Japan). Ranks the sushi as: 6 7 2 9 8 0 3 1 5 4
+User 8241 is a female aged 30–39. They grew up in Kanagawa (Kanto and Shizuoka, Eastern Japan), but currently live in Fukui (Hokuriku, Eastern Japan). Ranks the sushi as: 2 7 4 0 5 9 1 3 8 6
+User 6767 is a male aged 30–39. They have spent most of their life in Mie (Chukyo, Eastern Japan). Ranks the sushi as: 4 7 2 5 0 1 3 8 6 9
+User 1061 is a female aged 20–29. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 7 6 2 8 1 5 3 0 9
+User 9280 is a female aged 30–39. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 7 2 3 6 8 0 9 1 4
+User 9842 is a female aged 15–19. They have spent most of their life in Hokkaido (Hokkaido, Eastern Japan). Ranks the sushi as: 8 7 0 5 3 2 6 9 1 4
+User 9030 is a female aged 15–19. They have spent most of their life in Kagoshima (Kyushu, Western Japan). Ranks the sushi as: 4 0 5 1 2 7 3 9 6 8
+User 9988 is a female aged 40–49. They have spent most of their life in Hokkaido (Hokkaido, Eastern Japan). Ranks the sushi as: 4 1 7 0 8 5 2 6 3 9
+User 5389 is a male aged 40–49. They grew up in Nara (Kinki, Western Japan), but currently live in Hyogo (Kinki, Western Japan). Ranks the sushi as: 0 2 7 1 8 3 9 6 5 4
+User 9025 is a female aged 50–59. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 2 5 0 1 3 4 9 8 6
+User 6669 is a male aged 15–19. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 7 4 8 5 2 3 9 0 6
+User 9478 is a female aged 15–19. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 9 5 0 8 6 2 7 3 1 4
+User 9275 is a female aged 30–39. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 6 7 0 8 3 9 1 4 5
+User 8143 is a female aged 50–59. They have spent most of their life in Kyoto (Kinki, Western Japan). Ranks the sushi as: 2 1 3 5 4 8 7 0 9 6
+User 4407 is a male aged 40–49. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 7 4 8 1 2 0 5 9 6 3
+User 9719 is a female aged 30–39. They grew up in Osaka (Kinki, Western Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 0 7 6 8 2 1 9 3 4
+User 5337 is a male aged 30–39. They grew up in Okayama (Chugoku, Western Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 7 5 1 4 2 3 0 8 9 6
+User 5867 is a male aged 30–39. They have spent most of their life in Ishikawa (Hokuriku, Eastern Japan). Ranks the sushi as: 4 1 7 3 0 6 2 5 8 9
+User 9380 is a female aged 30–39. They grew up in Fukuoka (Kyushu, Western Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 4 7 1 6 9 8 0 2 3
+User 5575 is a male aged 30–39. They have spent most of their life in Ibaraki (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 7 2 4 0 3 8 9 6 5
+User 3649 is a male aged 20–29. They have spent most of their life in Mie (Chukyo, Eastern Japan). Ranks the sushi as: 1 4 5 6 2 7 3 0 8 9
+User 3785 is a male aged 30–39. They grew up in Kanagawa (Kanto and Shizuoka, Eastern Japan), but currently live in Aomori (Tohoku, Eastern Japan). Ranks the sushi as: 5 7 4 6 2 8 1 3 0 9
+User 8027 is a female aged 30–39. They have spent most of their life in Kyoto (Kinki, Western Japan). Ranks the sushi as: 5 6 0 2 7 9 8 1 4 3
+User 8600 is a female aged 20–29. They have spent most of their life in Kumamoto (Kyushu, Western Japan). Ranks the sushi as: 7 0 5 3 2 9 4 8 1 6
+User 3881 is a male aged 20–29. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 2 8 5 6 3 0 1 9 4
+User 4971 is a male aged 40–49. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 5 7 2 0 3 8 1 6 9
+User 4505 is a male aged 20–29. They grew up in Miyagi (Tohoku, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 6 1 7 2 3 8 5 0 4 9
+User 3837 is a male aged 30–39. They have spent most of their life in Oita (Kyushu, Western Japan). Ranks the sushi as: 5 2 7 6 1 3 0 8 9 4
+User 7185 is a male aged 40–49. They grew up in Osaka (Kinki, Western Japan), but currently live in Mie (Chukyo, Eastern Japan). Ranks the sushi as: 2 5 3 7 1 8 0 6 9 4
+User 1594 is a male aged 30–39. They have spent most of their life in Yamanashi (Nagano and Yamanashi, Eastern Japan). Ranks the sushi as: 6 9 1 5 2 7 3 8 4 0
+User 8871 is a female aged 20–29. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 0 2 7 8 6 3 9 5 4
+User 5757 is a male aged 40–49. They grew up in Akita (Tohoku, Eastern Japan), but currently live in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 4 1 3 6 7 8 5 0 9
+User 1377 is a female aged 30–39. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 7 4 6 3 5 9 2 8 0
+User 3937 is a male aged 20–29. They grew up in Fukui (Hokuriku, Eastern Japan), but currently live in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 5 2 8 1 6 0 9 4 3
+User 3869 is a male aged 40–49. They have spent most of their life in Gunma (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 4 7 1 2 3 0 6 8 9
+User 1737 is a male aged 20–29. They grew up in Hokkaido (Hokkaido, Eastern Japan), but currently live in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 5 1 2 4 6 8 3 0 9
+User 8657 is a female aged 20–29. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 0 3 5 7 2 8 1 9 6
+User 1474 is a female aged 20–29. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 2 3 0 7 1 8 4 9 6
+User 5753 is a male aged 50–59. They grew up in Kanagawa (Kanto and Shizuoka, Eastern Japan), but currently live in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 7 5 6 8 0 2 3 1 9
+User 8184 is a female aged 20–29. They have spent most of their life in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 3 1 4 7 2 6 0 5 8 9
+User 1191 is a female aged 20–29. They grew up in Gunma (Kanto and Shizuoka, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 3 0 6 9 2 8 7 4 1 5
+User 1950 is a female aged 20–29. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 2 0 3 8 5 6 4 9 1 7
+User 1147 is a male aged 30–39. They have spent most of their life in Miyazaki (Kyushu, Western Japan). Ranks the sushi as: 0 7 2 1 5 8 6 3 4 9
+User 8587 is a female aged 20–29. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 7 8 1 0 3 5 6 9 4
+User 9489 is a female aged 20–29. They have spent most of their life in Yamaguchi (Chugoku, Western Japan). Ranks the sushi as: 2 1 3 8 0 5 7 4 6 9
+User 4493 is a male aged 40–49. They grew up in Gifu (Chukyo, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 1 4 7 3 5 2 8 6 9
+User 8110 is a female aged 20–29. They grew up in Chiba (Kanto and Shizuoka, Eastern Japan), but currently live in Aomori (Tohoku, Eastern Japan). Ranks the sushi as: 2 8 0 3 7 9 1 6 4 5
+User 4147 is a male aged 20–29. They have spent most of their life in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 7 5 2 6 0 3 9 8 4
+User 1574 is a male aged 30–39. They grew up in Yamanashi (Nagano and Yamanashi, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 7 2 3 0 8 5 4 6 9
+User 5691 is a male aged 30–39. They have spent most of their life in Kyoto (Kinki, Western Japan). Ranks the sushi as: 3 1 7 8 6 2 9 5 4 0
+User 9124 is a female aged 20–29. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 7 2 1 5 8 0 3 9 6
+User 8222 is a female aged 30–39. They grew up in Hyogo (Kinki, Western Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 3 1 0 5 6 8 9 7 2
+User 1051 is a female aged 40–49. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 5 1 6 7 8 3 0 2 9
+User 1563 is a female aged 20–29. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 3 8 2 0 6 9 7 1 4 5
+User 6911 is a male aged 40–49. They grew up in Niigata (Hokuriku, Eastern Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 2 7 1 5 8 4 3 6 0 9
+User 8055 is a female aged 30–39. They grew up in Hyogo (Kinki, Western Japan), but currently live in Nara (Kinki, Western Japan). Ranks the sushi as: 5 8 9 0 1 3 2 6 4 7
+User 4309 is a male aged 30–39. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Nagano (Nagano and Yamanashi, Eastern Japan). Ranks the sushi as: 5 0 1 3 7 2 8 9 4 6
+User 9034 is a female aged 30–39. They have spent most of their life in Hyogo (Kinki, Western Japan). Ranks the sushi as: 7 4 3 6 1 5 0 2 9 8
+User 5469 is a male aged 50–59. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Ibaraki (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 5 1 8 4 2 0 3 6 9
+User 6857 is a male aged 20–29. They grew up in Okayama (Chugoku, Western Japan), but currently live in Yamaguchi (Chugoku, Western Japan). Ranks the sushi as: 5 1 2 7 0 6 9 8 3 4
+User 1723 is a male aged 60+. They grew up in Toyama (Hokuriku, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 5 1 7 8 2 0 6 3 9
+User 9066 is a female aged 40–49. They grew up in Iwate (Tohoku, Eastern Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 1 6 3 0 2 8 5 9 7 4
+User 5163 is a male aged 30–39. They grew up in Kumamoto (Kyushu, Western Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 1 5 2 0 8 6 9 3 4
+User 1355 is a female aged 15–19. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 3 2 7 8 0 9 1 5 6 4
+User 4173 is a male aged 40–49. They have spent most of their life in Hyogo (Kinki, Western Japan). Ranks the sushi as: 2 8 7 0 6 9 1 5 4 3
+User 8202 is a female aged 30–39. They grew up in Okayama (Chugoku, Western Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 3 7 0 5 4 1 6 8 9 2
+User 4463 is a male aged 30–39. They have spent most of their life in Toyama (Hokuriku, Eastern Japan). Ranks the sushi as: 5 2 7 6 4 8 9 3 1 0
+User 1270 is a female aged 50–59. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 5 1 8 4 3 2 0 9 6
+User 5321 is a male aged 20–29. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 3 6 0 9 1 5 7 8 2 4
+User 8042 is a female aged 60+. They have spent most of their life in Kochi (Shikoku, Western Japan). Ranks the sushi as: 7 1 5 3 4 2 8 0 9 6
+User 9662 is a female aged 40–49. They grew up in Chiba (Kanto and Shizuoka, Eastern Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 2 7 3 5 1 6 4 9 8
+User 9224 is a female aged 30–39. They grew up in Shimane (Chugoku, Western Japan), but currently live in Hiroshima (Chugoku, Western Japan). Ranks the sushi as: 1 6 0 2 9 7 8 3 4 5
+User 8167 is a female aged 30–39. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 8 2 7 6 9 1 3 0 4
+User 9297 is a female aged 20–29. They grew up in Kagoshima (Kyushu, Western Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 7 8 9 2 0 3 5 4 6
+User 1067 is a female aged 20–29. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 0 2 3 8 1 4 6 9 5
+User 1598 is a male aged 20–29. They grew up in Saitama (Kanto and Shizuoka, Eastern Japan), but currently live in Tochigi (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 2 4 5 8 1 0 6 3 9
+User 9165 is a female aged 40–49. They have spent most of their life in Hokkaido (Hokkaido, Eastern Japan). Ranks the sushi as: 4 5 7 2 1 3 6 0 8 9
+User 9686 is a female aged 40–49. They have spent most of their life in Kyoto (Kinki, Western Japan). Ranks the sushi as: 1 7 4 8 5 2 6 3 0 9
+User 9808 is a female aged 20–29. They grew up in Gunma (Kanto and Shizuoka, Eastern Japan), but currently live in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 0 3 2 7 1 8 9 5 6
+User 5365 is a male aged 40–49. They have spent most of their life in Hokkaido (Hokkaido, Eastern Japan). Ranks the sushi as: 4 7 1 2 3 0 6 8 5 9
+User 1494 is a male aged 40–49. They have spent most of their life in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 6 8 7 9 4 5 1 3 0
+User 9819 is a female aged 50–59. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 2 3 0 8 5 9 6 1 4
+User 3975 is a male aged 15–19. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 7 4 2 5 0 8 6 3 9
+User 10103 is a female aged 30–39. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 0 7 1 6 2 8 5 9 3
+User 9231 is a female aged 20–29. They have spent most of their life in Fukuoka (Kyushu, Western Japan). Ranks the sushi as: 1 6 4 2 7 5 0 3 8 9
+User 1010 is a male aged 20–29. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 3 0 6 9 8 7 1 2 5 4
+User 4977 is a male aged 20–29. They have spent most of their life in Ibaraki (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 1 5 7 2 3 8 6 0 9
+User 9495 is a female aged 30–39. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 2 5 4 0 8 9 3 1 6
+User 1266 is a female aged 30–39. They grew up in Aichi (Chukyo, Eastern Japan), but currently live in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 4 1 6 8 2 3 0 5 9
+User 8855 is a female aged 40–49. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 2 4 3 5 8 1 0 7 9 6
+User 9793 is a female aged 20–29. They have spent most of their life in Okinawa (Okinawa, Western Japan). Ranks the sushi as: 3 8 2 7 1 6 9 5 4 0
+User 4019 is a male aged 50–59. They have spent most of their life in Toyama (Hokuriku, Eastern Japan). Ranks the sushi as: 1 7 4 0 2 3 5 9 8 6
+User 9795 is a female aged 40–49. They have spent most of their life in Hyogo (Kinki, Western Japan). Ranks the sushi as: 4 7 1 0 2 6 5 3 8 9
+User 4049 is a male aged 40–49. They grew up in Gifu (Chukyo, Eastern Japan), but currently live in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 1 7 2 8 4 5 3 0 6 9
+User 3461 is a male aged 20–29. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 8 3 0 6 7 5 9 1 4
+User 1488 is a female aged 30–39. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 7 2 6 8 3 1 4 9 5
+User 8575 is a female aged 30–39. They grew up in Saitama (Kanto and Shizuoka, Eastern Japan), but currently live in Akita (Tohoku, Eastern Japan). Ranks the sushi as: 5 6 1 9 3 0 4 2 8 7
+User 8881 is a female aged 40–49. They have spent most of their life in Kagoshima (Kyushu, Western Japan). Ranks the sushi as: 2 7 1 0 8 6 3 9 4 5
+User 9920 is a female aged 30–39. They have spent most of their life in Nagasaki (Kyushu, Western Japan). Ranks the sushi as: 1 7 3 2 6 8 0 9 5 4
+User 5423 is a male aged 30–39. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 1 8 2 0 9 5 6 4 3
+User 9603 is a female aged 40–49. They grew up in Hokkaido (Hokkaido, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 4 7 5 0 3 2 8 6 9
+User 4009 is a male aged 30–39. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 2 4 7 5 1 8 3 9 6
+User 1154 is a male aged 40–49. They have spent most of their life in Nara (Kinki, Western Japan). Ranks the sushi as: 2 5 8 7 0 1 9 3 6 4
+User 3657 is a male aged 40–49. They grew up in Oita (Kyushu, Western Japan), but currently live in Okinawa (Okinawa, Western Japan). Ranks the sushi as: 1 3 7 2 6 0 8 9 5 4
+User 9263 is a female aged 30–39. They have spent most of their life in Nagano (Nagano and Yamanashi, Eastern Japan). Ranks the sushi as: 2 6 7 1 0 3 8 9 4 5
+User 9554 is a female aged 40–49. They have spent most of their life in Miyagi (Tohoku, Eastern Japan). Ranks the sushi as: 6 7 0 1 4 2 5 3 8 9
+User 6061 is a male aged 40–49. They have spent most of their life in Gunma (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 8 7 0 2 6 4 5 3 1 9
+User 1076 is a female aged 15–19. They have spent most of their life in Hokkaido (Hokkaido, Eastern Japan). Ranks the sushi as: 7 2 8 1 3 6 0 9 5 4
+User 9219 is a female aged 40–49. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 5 2 0 3 6 4 8 9 1
+User 1150 is a female aged 30–39. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 7 6 5 4 2 8 0 3 9
+User 5045 is a male aged 40–49. They grew up in Ishikawa (Hokuriku, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 8 1 2 3 0 4 5 9 6
+User 8993 is a female aged 20–29. They have spent most of their life in Miyagi (Tohoku, Eastern Japan). Ranks the sushi as: 4 7 1 0 5 6 2 8 3 9
+User 4773 is a male aged 20–29. They have spent most of their life in Nagasaki (Kyushu, Western Japan). Ranks the sushi as: 3 1 7 0 4 2 5 9 8 6
+User 9917 is a female aged 20–29. They have spent most of their life in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 7 4 8 2 0 5 9 3 6 1
+User 8117 is a female aged 20–29. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 0 4 1 3 7 2 9 5 8 6
+User 8391 is a female aged 30–39. They have spent most of their life in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 7 2 1 6 8 5 0 4 3 9
+User 9400 is a female aged 20–29. They have spent most of their life in Oita (Kyushu, Western Japan). Ranks the sushi as: 5 1 7 3 0 4 2 9 8 6
+User 1370 is a female aged 20–29. They have spent most of their life in Tochigi (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 2 0 9 1 6 3 7 8 5
+User 9922 is a female aged 40–49. They grew up in Saitama (Kanto and Shizuoka, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 0 2 3 1 8 9 6 4 5
+User 8991 is a female aged 30–39. They have spent most of their life in Fukuoka (Kyushu, Western Japan). Ranks the sushi as: 3 0 4 5 7 8 2 9 6 1
+User 10134 is a female aged 20–29. They grew up in Chiba (Kanto and Shizuoka, Eastern Japan), but currently live in Aomori (Tohoku, Eastern Japan). Ranks the sushi as: 5 4 7 1 0 2 8 9 3 6
+User 4995 is a male aged 30–39. They grew up in Iwate (Tohoku, Eastern Japan), but currently live in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 2 7 8 1 3 5 4 9 6
+User 4807 is a male aged 50–59. They grew up in Aichi (Chukyo, Eastern Japan), but currently live in Gifu (Chukyo, Eastern Japan). Ranks the sushi as: 6 1 9 0 8 2 4 5 3 7
+User 3955 is a male aged 30–39. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 4 7 0 2 6 3 8 9 5
+User 6679 is a male aged 30–39. They grew up in Kyoto (Kinki, Western Japan), but currently live in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 2 7 0 1 8 9 3 4 6
+User 1069 is a male aged 20–29. They grew up in Ibaraki (Kanto and Shizuoka, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 3 8 4 7 2 0 6 9 5
+User 6671 is a male aged 20–29. They have spent most of their life in Miyagi (Tohoku, Eastern Japan). Ranks the sushi as: 7 2 0 8 1 5 6 3 4 9
+User 3299 is a male aged 30–39. They grew up in Osaka (Kinki, Western Japan), but currently live in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 8 2 1 6 0 3 9 5 4
+User 5553 is a male aged 40–49. They have spent most of their life in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 7 5 4 8 3 1 2 0 9 6
+User 9967 is a female aged 20–29. They have spent most of their life in Niigata (Hokuriku, Eastern Japan). Ranks the sushi as: 4 5 1 7 3 6 9 0 8 2
+User 8817 is a female aged 20–29. They have spent most of their life in Kyoto (Kinki, Western Japan). Ranks the sushi as: 1 0 7 5 3 2 8 9 6 4
+User 8605 is a female aged 20–29. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 3 0 1 8 6 7 4 9 5
+User 5909 is a male aged 20–29. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 0 7 2 1 4 8 3 6 9
+User 1023 is a male aged 20–29. They grew up in Nagano (Nagano and Yamanashi, Eastern Japan), but currently live in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 3 9 6 8 2 7 0 1 5
+User 5513 is a male aged 20–29. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 4 2 6 0 5 3 8 1 9
+User 9914 is a female aged 20–29. They grew up in Hyogo (Kinki, Western Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 2 6 8 4 5 9 7 3 0
+User 6099 is a male aged 40–49. They grew up in Osaka (Kinki, Western Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 7 3 9 1 0 6 8 2 4
+User 8921 is a female aged 30–39. They grew up in Ibaraki (Kanto and Shizuoka, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 1 4 5 2 0 3 8 6 9
+User 9467 is a female aged 30–39. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 0 7 5 8 3 6 9 2 1
+User 9193 is a female aged 30–39. They grew up in Chiba (Kanto and Shizuoka, Eastern Japan), but currently live in Tochigi (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 1 4 2 8 0 3 6 5 9
+User 3471 is a male aged 30–39. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 8 6 5 4 3 1 0 2 9
+User 8467 is a female aged 30–39. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 7 0 5 4 6 2 3 8 9
+User 9154 is a female aged 20–29. They grew up in Tottori (Chugoku, Western Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 7 2 8 0 3 6 1 9 5 4
+User 6473 is a male aged 60+. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 4 7 2 1 0 8 6 3 9
+User 4749 is a male aged 40–49. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 7 5 4 3 1 9 8 6 0
+User 8384 is a female aged 20–29. They grew up in Kagawa (Shikoku, Western Japan), but currently live in Hyogo (Kinki, Western Japan). Ranks the sushi as: 6 8 2 5 7 1 0 4 3 9
+User 4545 is a male aged 30–39. They have spent most of their life in Hyogo (Kinki, Western Japan). Ranks the sushi as: 7 5 0 2 8 3 1 4 6 9
+User 3713 is a male aged 20–29. They have spent most of their life in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 5 7 8 0 2 3 6 1 9
+User 8009 is a female aged 20–29. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 2 7 1 5 8 6 4 0 3 9
+User 5581 is a male aged 30–39. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 5 4 2 3 0 8 1 6 9
+User 1156 is a female aged 30–39. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 4 5 0 7 9 3 2 1 8 6
+User 8569 is a female aged 30–39. They grew up in Saitama (Kanto and Shizuoka, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 6 8 0 2 9 7 4 5 3
+User 4805 is a male aged 40–49. They have spent most of their life in Okinawa (Okinawa, Western Japan). Ranks the sushi as: 7 3 2 1 8 0 9 5 4 6
+User 5833 is a male aged 30–39. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 7 6 2 3 1 8 9 4 5
+User 10140 is a female aged 50–59. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 4 1 5 0 3 6 9 8 2
+User 3535 is a male aged 30–39. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 4 5 0 2 7 8 1 3 9 6
+User 6831 is a male aged 40–49. They have spent most of their life in Fukuoka (Kyushu, Western Japan). Ranks the sushi as: 3 7 2 0 1 8 6 9 5 4
+User 4113 is a male aged 40–49. They have spent most of their life in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 7 4 1 5 8 9 6 0 3
+User 1674 is a female aged 30–39. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 4 1 3 6 5 0 2 9 8
+User 4581 is a male aged 20–29. They grew up in Hyogo (Kinki, Western Japan), but currently live in Shimane (Chugoku, Western Japan). Ranks the sushi as: 7 3 5 4 2 1 0 8 9 6
+User 8417 is a female aged 15–19. They have spent most of their life in Kyoto (Kinki, Western Japan). Ranks the sushi as: 1 8 6 0 7 2 9 3 5 4
+User 10130 is a female aged 40–49. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 3 7 0 8 9 1 4 6 5
+User 8537 is a female aged 30–39. They grew up in Ishikawa (Hokuriku, Eastern Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 7 5 2 9 8 3 6 4 1
+User 9619 is a female aged 20–29. They grew up in Fukushima (Tohoku, Eastern Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 7 2 6 0 3 1 8 9 5 4
+User 1635 is a female aged 30–39. They grew up in Hokkaido (Hokkaido, Eastern Japan), but currently live in Kagawa (Shikoku, Western Japan). Ranks the sushi as: 3 5 6 0 7 8 2 9 1 4
+User 9197 is a female aged 50–59. They grew up in Osaka (Kinki, Western Japan), but currently live in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 2 4 3 7 0 1 8 6 9
+User 9943 is a female aged 30–39. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 5 7 8 1 0 6 9 4 3
+User 8323 is a female aged 30–39. They grew up in Kyoto (Kinki, Western Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 2 7 0 5 3 8 9 1 6 4
+User 9377 is a female aged 20–29. They have spent most of their life in Tokushima (Shikoku, Western Japan). Ranks the sushi as: 7 2 3 8 0 9 1 5 4 6
+User 9090 is a female aged 20–29. They have spent most of their life in Ibaraki (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 1 4 5 2 0 3 8 9 6
+User 1406 is a male aged 40–49. They grew up in Tochigi (Kanto and Shizuoka, Eastern Japan), but currently live in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 1 0 7 3 2 6 8 5 9
+User 8780 is a female aged 40–49. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 7 0 5 3 2 1 8 9 6 4
+User 3259 is a male aged 20–29. They grew up in Kyoto (Kinki, Western Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 0 1 4 2 3 5 7 9 8 6
+User 8120 is a female aged 15–19. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 5 0 7 2 1 6 8 9 3
+User 9953 is a female aged 20–29. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 4 7 2 3 0 9 6 8 1
+User 3411 is a male aged 30–39. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 4 0 2 3 9 6 8 5 1
+User 1393 is a male aged 20–29. They grew up in Tokushima (Shikoku, Western Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 1 7 6 8 3 2 0 4 9 5
+User 5655 is a male aged 40–49. They have spent most of their life in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 7 0 2 3 1 6 4 8 9
+User 8102 is a female aged 30–39. They grew up in Aichi (Chukyo, Eastern Japan), but currently live in Yamanashi (Nagano and Yamanashi, Eastern Japan). Ranks the sushi as: 5 4 6 7 1 2 0 8 9 3
+User 5473 is a male aged 50–59. They grew up in Nagano (Nagano and Yamanashi, Eastern Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 5 7 0 4 1 2 8 6 3 9
+User 8766 is a female aged 40–49. They have spent most of their life in Hokkaido (Hokkaido, Eastern Japan). Ranks the sushi as: 8 2 3 7 0 6 4 1 9 5
+User 8433 is a female aged 20–29. They have spent most of their life in Toyama (Hokuriku, Eastern Japan). Ranks the sushi as: 1 2 7 0 4 5 3 6 8 9
+User 6943 is a male aged 30–39. They grew up in Chiba (Kanto and Shizuoka, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 1 7 6 2 8 3 9 4 0
+User 1222 is a male aged 40–49. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 2 1 6 7 8 5 3 9 4
+User 6967 is a male aged 40–49. They grew up in Tokushima (Shikoku, Western Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 6 1 2 0 3 8 7 9 4
+User 5161 is a male aged 30–39. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 1 7 0 3 6 2 8 9 4
+User 3059 is a male aged 40–49. They grew up in Kagawa (Shikoku, Western Japan), but currently live in Tokushima (Shikoku, Western Japan). Ranks the sushi as: 2 5 1 0 8 6 3 4 7 9
+User 8272 is a female aged 20–29. They grew up in Hokkaido (Hokkaido, Eastern Japan), but currently live in Nagano (Nagano and Yamanashi, Eastern Japan). Ranks the sushi as: 0 1 7 2 5 8 9 4 3 6
+User 8054 is a female aged 40–49. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 8 2 3 0 9 1 6 5 4
+User 4647 is a male aged 20–29. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Niigata (Hokuriku, Eastern Japan). Ranks the sushi as: 5 4 8 7 9 6 1 2 0 3
+User 9454 is a female aged 30–39. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 7 8 1 0 3 6 9 5 4
+User 8014 is a female aged 30–39. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Kagoshima (Kyushu, Western Japan). Ranks the sushi as: 7 0 4 3 2 5 8 9 6 1
+User 1893 is a male aged 40–49. They have spent most of their life in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 5 7 1 4 2 8 0 3 9 6
+User 3753 is a male aged 50–59. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 0 5 2 8 9 3 1 6 7 4
+User 4813 is a male aged 30–39. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 2 1 8 6 9 5 3 0 4
+User 6577 is a male aged 30–39. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Fukuoka (Kyushu, Western Japan). Ranks the sushi as: 4 7 5 1 8 6 0 3 9 2
+User 6073 is a male aged 20–29. They grew up in Shiga (Kinki, Western Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 1 4 5 8 6 2 7 0 3 9
+User 10022 is a female aged 40–49. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 5 4 2 1 8 6 3 0 9
+User 9409 is a female aged 30–39. They grew up in Nagasaki (Kyushu, Western Japan), but currently live in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 8 1 9 0 2 3 7 6 5 4
+User 4347 is a male aged 40–49. They have spent most of their life in Fukui (Hokuriku, Eastern Japan). Ranks the sushi as: 7 4 2 5 8 1 6 9 0 3
+User 5771 is a male aged 20–29. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 5 7 3 0 1 6 8 9 2
+User 9026 is a female aged 20–29. They grew up in Kanagawa (Kanto and Shizuoka, Eastern Japan), but currently live in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 0 9 7 3 2 8 4 6 5
+User 8201 is a female aged 40–49. They grew up in Hyogo (Kinki, Western Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 0 8 4 5 3 2 1 6 9
+User 5277 is a male aged 50–59. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 3 0 7 5 8 2 6 9 1 4
+User 9240 is a female aged 30–39. They grew up in Kyoto (Kinki, Western Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 6 1 3 0 5 2 7 4 8 9
+User 1510 is a female aged 20–29. They grew up in Yamagata (Tohoku, Eastern Japan), but currently live in Hokkaido (Hokkaido, Eastern Japan). Ranks the sushi as: 7 2 8 4 1 3 5 0 9 6
+User 8427 is a female aged 20–29. They have spent most of their life in Hyogo (Kinki, Western Japan). Ranks the sushi as: 2 7 8 1 0 4 5 9 3 6
+User 4027 is a male aged 20–29. They have spent most of their life in Hokkaido (Hokkaido, Eastern Japan). Ranks the sushi as: 0 2 5 3 6 8 1 7 4 9
+User 3999 is a male aged 30–39. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 5 4 2 6 1 0 3 9 8
+User 8171 is a female aged 40–49. They have spent most of their life in Aomori (Tohoku, Eastern Japan). Ranks the sushi as: 4 3 5 7 8 6 1 2 0 9
+User 9888 is a female aged 15–19. They have spent most of their life in Saga (Kyushu, Western Japan). Ranks the sushi as: 0 5 4 7 1 6 8 2 9 3
+User 10087 is a female aged 20–29. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 4 7 0 1 3 2 5 8 9 6
+User 1459 is a female aged 15–19. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 7 1 4 2 3 0 8 9 6
+User 10125 is a female aged 40–49. They grew up in Chiba (Kanto and Shizuoka, Eastern Japan), but currently live in Tochigi (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 8 7 4 2 3 0 1 6 9
+User 8866 is a female aged 15–19. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 7 4 5 2 8 1 0 9 6 3
+User 9716 is a female aged 50–59. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 1 2 3 0 8 6 9 5 4
+User 5465 is a male aged 30–39. They have spent most of their life in Toyama (Hokuriku, Eastern Japan). Ranks the sushi as: 2 7 8 5 4 0 3 6 9 1
+User 4833 is a male aged 20–29. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 7 5 1 6 2 8 0 3 9
+User 8169 is a female aged 20–29. They have spent most of their life in Yamaguchi (Chugoku, Western Japan). Ranks the sushi as: 7 4 2 5 3 0 8 1 6 9
+User 8621 is a female aged 15–19. They have spent most of their life in Hyogo (Kinki, Western Japan). Ranks the sushi as: 7 5 4 0 3 1 8 2 9 6
+User 5947 is a male aged 40–49. They have spent most of their life in Gifu (Chukyo, Eastern Japan). Ranks the sushi as: 1 4 7 5 2 0 8 3 9 6
+User 1246 is a male aged 15–19. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 5 7 1 8 9 6 0 2 3
+User 8362 is a female aged 40–49. They have spent most of their life in Okayama (Chugoku, Western Japan). Ranks the sushi as: 7 4 3 0 2 8 1 6 5 9
+User 8228 is a female aged 30–39. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 7 4 0 8 1 2 9 3 6
+User 9331 is a female aged 20–29. They have spent most of their life in Hyogo (Kinki, Western Japan). Ranks the sushi as: 3 2 7 6 0 5 9 8 1 4
+User 7055 is a male aged 40–49. They grew up in Hokkaido (Hokkaido, Eastern Japan), but currently live in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 3 0 7 2 8 4 6 9 1 5
+User 4859 is a male aged 15–19. They have spent most of their life in Ibaraki (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 8 4 2 3 0 7 5 6 9 1
+User 1885 is a female aged 20–29. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 3 5 4 2 0 7 8 6 1 9
+User 5363 is a male aged 30–39. They grew up in Osaka (Kinki, Western Japan), but currently live in Hyogo (Kinki, Western Japan). Ranks the sushi as: 0 5 7 3 2 8 1 9 6 4
+User 8580 is a female aged 30–39. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 6 7 2 3 0 8 1 9 4 5
+User 1671 is a female aged 40–49. They grew up in Kanagawa (Kanto and Shizuoka, Eastern Japan), but currently live in Shizuoka (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 4 5 0 3 8 2 1 6 9
+User 9609 is a female aged 30–39. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 4 7 5 3 6 9 8 2 0
+User 1262 is a female aged 40–49. They have spent most of their life in Fukuoka (Kyushu, Western Japan). Ranks the sushi as: 1 5 0 4 7 8 2 3 6 9
+User 6163 is a male aged 20–29. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 7 0 2 8 3 5 1 6 9
+User 1060 is a female aged 20–29. They have spent most of their life in Fukuoka (Kyushu, Western Japan). Ranks the sushi as: 3 2 0 1 6 8 9 4 7 5
+User 1983 is a female aged 20–29. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 8 3 7 2 6 1 0 9 4
+User 1675 is a female aged 30–39. They have spent most of their life in Hiroshima (Chugoku, Western Japan). Ranks the sushi as: 5 0 1 7 4 2 6 8 9 3
+User 6195 is a male aged 20–29. They grew up in Nagasaki (Kyushu, Western Japan), but currently live in Fukuoka (Kyushu, Western Japan). Ranks the sushi as: 2 1 7 8 5 9 3 6 0 4
+User 4735 is a male aged 40–49. They have spent most of their life in Yamaguchi (Chugoku, Western Japan). Ranks the sushi as: 7 1 4 5 3 0 8 2 6 9
+User 8196 is a female aged 30–39. They have spent most of their life in Hyogo (Kinki, Western Japan). Ranks the sushi as: 1 6 4 7 0 2 5 8 3 9
+User 1516 is a female aged 20–29. They have spent most of their life in Nagasaki (Kyushu, Western Japan). Ranks the sushi as: 5 7 8 2 1 0 3 4 9 6
+User 4907 is a male aged 40–49. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 4 2 5 0 8 1 3 6 9
+User 1304 is a male aged 40–49. They grew up in Kagawa (Shikoku, Western Japan), but currently live in Hiroshima (Chugoku, Western Japan). Ranks the sushi as: 3 0 1 9 6 2 8 7 4 5
+User 8253 is a female aged 30–39. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 7 8 2 6 3 0 4 9 1
+User 10091 is a female aged 30–39. They have spent most of their life in Hokkaido (Hokkaido, Eastern Japan). Ranks the sushi as: 5 7 2 4 6 1 3 8 0 9
+User 6409 is a male aged 15–19. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 1 6 8 5 2 9 7 4 3
+User 8955 is a female aged 30–39. They grew up in Osaka (Kinki, Western Japan), but currently live in Fukuoka (Kyushu, Western Japan). Ranks the sushi as: 2 3 0 5 4 8 9 6 1 7
+User 9488 is a female aged 20–29. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 0 2 7 8 3 9 6 1 4
+User 6639 is a male aged 60+. They grew up in Osaka (Kinki, Western Japan), but currently live in Kyoto (Kinki, Western Japan). Ranks the sushi as: 3 0 9 1 2 8 7 5 4 6
+User 5539 is a male aged 30–39. They grew up in Hokkaido (Hokkaido, Eastern Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 5 4 3 7 8 9 6 2 0
+User 4777 is a male aged 60+. They grew up in Shizuoka (Kanto and Shizuoka, Eastern Japan), but currently live in Hokkaido (Hokkaido, Eastern Japan). Ranks the sushi as: 2 0 7 1 8 5 3 9 4 6
+User 3565 is a male aged 20–29. They grew up in Shiga (Kinki, Western Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 5 4 0 1 3 7 2 8 9 6
+User 8465 is a female aged 30–39. They grew up in Shizuoka (Kanto and Shizuoka, Eastern Japan), but currently live in Fukushima (Tohoku, Eastern Japan). Ranks the sushi as: 0 7 5 8 2 3 1 4 6 9
+User 5353 is a male aged 50–59. They have spent most of their life in Mie (Chukyo, Eastern Japan). Ranks the sushi as: 5 3 7 0 4 2 8 6 1 9
+User 3211 is a male aged 60+. They have spent most of their life in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 7 2 4 1 0 3 5 8 9 6
+User 8086 is a female aged 30–39. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 8 3 0 2 6 9 5 4 7 1
+User 3323 is a male aged 40–49. They grew up in Hiroshima (Chugoku, Western Japan), but currently live in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 1 2 7 0 3 6 8 5 4 9
+User 8973 is a female aged 30–39. They have spent most of their life in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 3 5 4 0 7 9 8 6 1
+User 4041 is a male aged 15–19. They have spent most of their life in Iwate (Tohoku, Eastern Japan). Ranks the sushi as: 5 4 7 1 8 0 3 6 2 9
+User 1872 is a male aged 40–49. They have spent most of their life in Ehime (Shikoku, Western Japan). Ranks the sushi as: 7 3 5 2 8 0 1 4 6 9
+User 6055 is a male aged 30–39. They grew up in Saitama (Kanto and Shizuoka, Eastern Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 7 3 5 2 8 1 6 0 9
+User 8811 is a female aged 20–29. They have spent most of their life in Kyoto (Kinki, Western Japan). Ranks the sushi as: 9 6 8 1 2 3 0 5 7 4
+User 6217 is a male aged 20–29. They grew up in Aomori (Tohoku, Eastern Japan), but currently live in Hokkaido (Hokkaido, Eastern Japan). Ranks the sushi as: 4 6 5 3 2 0 1 8 9 7
+User 1661 is a male aged 50–59. They have spent most of their life in Ibaraki (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 0 7 3 9 6 8 1 5 2
+User 5883 is a male aged 20–29. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 5 7 1 2 0 6 3 8 9
+User 9684 is a female aged 30–39. They have spent most of their life in Hyogo (Kinki, Western Japan). Ranks the sushi as: 4 7 1 5 0 8 6 2 3 9
+User 8057 is a female aged 30–39. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 0 5 6 4 2 7 9 8 3
+User 9768 is a female aged 15–19. They have spent most of their life in Shizuoka (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 5 7 6 1 0 8 3 9 4
+User 6043 is a male aged 40–49. They have spent most of their life in Gunma (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 1 7 5 3 2 8 0 6 9
+User 6375 is a male aged 30–39. They have spent most of their life in Kyoto (Kinki, Western Japan). Ranks the sushi as: 6 2 7 4 0 5 1 8 9 3
+User 3217 is a male aged 30–39. They have spent most of their life in Fukuoka (Kyushu, Western Japan). Ranks the sushi as: 7 2 8 4 1 6 0 9 3 5
+User 6005 is a male aged 50–59. They have spent most of their life in Okayama (Chugoku, Western Japan). Ranks the sushi as: 8 3 7 1 0 6 2 9 4 5
+User 8986 is a female aged 15–19. They have spent most of their life in Kyoto (Kinki, Western Japan). Ranks the sushi as: 7 3 2 6 0 9 8 4 1 5
+User 9040 is a female aged 30–39. They grew up in Hyogo (Kinki, Western Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 5 7 3 4 1 2 0 6 8 9
+User 9021 is a female aged 40–49. They grew up in Aichi (Chukyo, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 1 6 4 5 8 2 0 3 9
+User 8145 is a female aged 20–29. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 2 8 1 4 9 3 5 6 0
+User 10133 is a female aged 50–59. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 7 1 8 0 3 5 4 9 6
+User 9243 is a female aged 20–29. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 3 4 0 7 2 5 8 1 9 6
+User 9370 is a female aged 20–29. They grew up in Niigata (Hokuriku, Eastern Japan), but currently live in Ibaraki (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 3 8 1 2 7 9 5 0 6 4
+User 5299 is a male aged 60+. They grew up in Aichi (Chukyo, Eastern Japan), but currently live in Gifu (Chukyo, Eastern Japan). Ranks the sushi as: 1 5 4 7 0 3 2 9 8 6
+User 9926 is a female aged 30–39. They have spent most of their life in Shizuoka (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 2 8 9 5 4 1 0 6 3
+User 1762 is a female aged 40–49. They have spent most of their life in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 1 7 2 8 3 6 0 9 5 4
+User 9622 is a female aged 30–39. They have spent most of their life in Fukushima (Tohoku, Eastern Japan). Ranks the sushi as: 7 2 5 4 1 0 3 8 9 6
+User 10014 is a female aged 30–39. They have spent most of their life in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 4 3 7 6 2 0 1 9 8
+User 1238 is a female aged 50–59. They have spent most of their life in Gunma (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 6 3 5 0 7 4 2 9 8
+User 8846 is a female aged 15–19. They grew up in Ehime (Shikoku, Western Japan), but currently live in Hiroshima (Chugoku, Western Japan). Ranks the sushi as: 4 5 1 2 0 7 6 8 3 9
+User 8438 is a female aged 40–49. They have spent most of their life in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 5 4 0 7 3 8 2 1 9 6
+User 6105 is a male aged 20–29. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 4 1 7 8 2 3 0 9 6
+User 1917 is a female aged 15–19. They have spent most of their life in Ehime (Shikoku, Western Japan). Ranks the sushi as: 4 8 5 3 7 1 0 6 2 9
+User 1404 is a female aged 20–29. They have spent most of their life in Hyogo (Kinki, Western Japan). Ranks the sushi as: 4 1 0 3 5 7 2 8 6 9
+User 9101 is a female aged 20–29. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 4 7 5 1 6 9 0 3 8 2
+User 8238 is a female aged 20–29. They grew up in Hyogo (Kinki, Western Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 7 2 0 5 1 8 3 6 4 9
+User 9873 is a female aged 20–29. They have spent most of their life in Gifu (Chukyo, Eastern Japan). Ranks the sushi as: 7 2 4 1 8 0 5 3 9 6
+User 4389 is a male aged 20–29. They grew up in Nagasaki (Kyushu, Western Japan), but currently live in Fukuoka (Kyushu, Western Japan). Ranks the sushi as: 5 8 7 9 2 0 3 6 1 4
+User 4037 is a male aged 15–19. They have spent most of their life in Hyogo (Kinki, Western Japan). Ranks the sushi as: 9 0 3 6 5 2 7 8 1 4
+User 9957 is a female aged 15–19. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 8 0 3 4 7 6 2 5 1 9
+User 4211 is a male aged 30–39. They grew up in Fukuoka (Kyushu, Western Japan), but currently live in Saga (Kyushu, Western Japan). Ranks the sushi as: 7 0 5 2 3 8 1 6 9 4
+User 1650 is a female aged 30–39. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 5 0 7 8 2 9 3 6 1 4
+User 1832 is a male aged 40–49. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 3 5 2 6 8 4 1 0 9
+User 9490 is a female aged 40–49. They have spent most of their life in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 2 7 1 4 9 5 8 3 6
+User 1647 is a female aged 30–39. They have spent most of their life in Wakayama (Kinki, Western Japan). Ranks the sushi as: 0 2 8 6 9 1 3 5 4 7
+User 8138 is a female aged 30–39. They have spent most of their life in Hyogo (Kinki, Western Japan). Ranks the sushi as: 7 2 1 5 6 8 9 4 3 0
+User 9749 is a female aged 20–29. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 4 2 8 5 0 3 1 9 6
+User 5713 is a male aged 40–49. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 6 8 2 7 3 4 9 5 1 0
+User 9119 is a female aged 20–29. They have spent most of their life in Shizuoka (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 2 1 0 8 6 9 5 4 3
+User 3253 is a male aged 20–29. They grew up in Wakayama (Kinki, Western Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 6 1 3 4 7 9 8 2 5
+User 6839 is a male aged 30–39. They have spent most of their life in Toyama (Hokuriku, Eastern Japan). Ranks the sushi as: 5 8 7 3 0 2 9 1 4 6
+User 9941 is a female aged 20–29. They grew up in Kochi (Shikoku, Western Japan), but currently live in Fukuoka (Kyushu, Western Japan). Ranks the sushi as: 7 2 5 4 3 0 8 1 6 9
+User 9685 is a female aged 20–29. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 5 0 3 6 1 2 8 7 9 4
+User 6853 is a male aged 50–59. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 4 7 2 1 8 3 9 6 0
+User 1117 is a female aged 30–39. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 3 8 0 2 7 9 6 1 5 4
+User 9569 is a female aged 30–39. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 5 7 2 4 1 8 6 0 3 9
+User 1759 is a female aged 30–39. They grew up in Hyogo (Kinki, Western Japan), but currently live in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 6 0 2 7 8 3 9 1 4
+User 9216 is a female aged 20–29. They have spent most of their life in Wakayama (Kinki, Western Japan). Ranks the sushi as: 6 0 3 7 2 9 8 5 4 1
+User 8948 is a female aged 30–39. They grew up in Ehime (Shikoku, Western Japan), but currently live in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 7 6 2 4 1 3 0 9 8
+User 9623 is a female aged 20–29. They have spent most of their life in Gifu (Chukyo, Eastern Japan). Ranks the sushi as: 6 7 8 0 2 9 3 4 5 1
+User 3589 is a male aged 30–39. They grew up in Hokkaido (Hokkaido, Eastern Japan), but currently live in Shizuoka (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 3 0 9 2 1 6 8 4 7 5
+User 3469 is a male aged 20–29. They have spent most of their life in Nagano (Nagano and Yamanashi, Eastern Japan). Ranks the sushi as: 4 5 9 7 6 2 8 0 1 3
+User 5505 is a male aged 60+. They have spent most of their life in Fukuoka (Kyushu, Western Japan). Ranks the sushi as: 7 2 4 8 3 1 5 6 9 0
+User 3493 is a male aged 40–49. They grew up in Saitama (Kanto and Shizuoka, Eastern Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 3 4 1 5 8 9 6 7 2
+User 6885 is a male aged 30–39. They have spent most of their life in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 1 4 7 5 8 2 3 9 6 0
+User 5609 is a male aged 30–39. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 1 0 3 6 4 9 8 2 5
+User 1015 is a female aged 30–39. They grew up in Aomori (Tohoku, Eastern Japan), but currently live in Miyagi (Tohoku, Eastern Japan). Ranks the sushi as: 1 6 8 2 9 7 3 0 4 5
+User 1107 is a male aged 20–29. They have spent most of their life in Okayama (Chugoku, Western Japan). Ranks the sushi as: 3 0 7 1 5 8 6 4 9 2
+User 1853 is a female aged 20–29. They have spent most of their life in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 6 2 1 7 4 3 9 8 0 5
+User 6919 is a male aged 40–49. They have spent most of their life in Hyogo (Kinki, Western Japan). Ranks the sushi as: 5 4 7 3 0 8 9 2 1 6
+User 1496 is a female aged 30–39. They have spent most of their life in Hokkaido (Hokkaido, Eastern Japan). Ranks the sushi as: 7 4 1 2 8 5 3 0 6 9
+User 9884 is a female aged 15–19. They have spent most of their life in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 2 7 8 9 3 5 6 4 1
+User 9365 is a female aged 40–49. They grew up in Gifu (Chukyo, Eastern Japan), but currently live in Shizuoka (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 1 4 5 8 6 0 3 7 9
+User 1562 is a female aged 30–39. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 4 8 7 1 5 0 3 6 9
+User 1054 is a male aged 20–29. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 7 4 8 1 0 3 6 2 9
+User 9657 is a female aged 20–29. They have spent most of their life in Niigata (Hokuriku, Eastern Japan). Ranks the sushi as: 7 1 4 0 8 6 2 5 9 3
+User 9088 is a female aged 20–29. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 6 0 5 9 4 3 8 2 7
+User 4025 is a male aged 15–19. They have spent most of their life in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 8 7 1 0 2 5 9 6 4 3
+User 9594 is a female aged 30–39. They have spent most of their life in Hyogo (Kinki, Western Japan). Ranks the sushi as: 1 2 7 8 0 6 3 4 5 9
+User 9364 is a female aged 20–29. They grew up in Osaka (Kinki, Western Japan), but currently live in Nagasaki (Kyushu, Western Japan). Ranks the sushi as: 7 3 2 8 5 4 0 9 1 6
+User 8641 is a female aged 20–29. They grew up in Ishikawa (Hokuriku, Eastern Japan), but currently live in Toyama (Hokuriku, Eastern Japan). Ranks the sushi as: 1 4 3 0 2 8 6 7 5 9
+User 10011 is a female aged 40–49. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 7 4 1 0 2 8 6 3 9
+User 5963 is a male aged 20–29. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 7 5 4 0 2 3 6 8 9 1
+User 5967 is a male aged 40–49. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 1 9 4 7 8 6 0 2 3
+User 8753 is a female aged 20–29. They grew up in Osaka (Kinki, Western Japan), but currently live in Hyogo (Kinki, Western Japan). Ranks the sushi as: 4 7 1 5 3 2 8 6 0 9
+User 1814 is a female aged 30–39. They have spent most of their life in Akita (Tohoku, Eastern Japan). Ranks the sushi as: 7 4 0 1 5 3 8 2 6 9
+User 5057 is a male aged 20–29. They have spent most of their life in Ehime (Shikoku, Western Japan). Ranks the sushi as: 4 1 5 3 0 2 8 7 9 6
+User 3393 is a male aged 20–29. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 3 0 2 1 5 4 6 8 9
+User 9288 is a female aged 30–39. They grew up in Chiba (Kanto and Shizuoka, Eastern Japan), but currently live in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 4 1 5 3 6 0 2 8 9
+User 1382 is a male aged 30–39. They have spent most of their life in Hyogo (Kinki, Western Japan). Ranks the sushi as: 7 2 1 3 0 8 5 4 6 9
+User 5547 is a male aged 30–39. They have spent most of their life in Aomori (Tohoku, Eastern Japan). Ranks the sushi as: 4 5 7 0 2 8 1 3 9 6
+User 5479 is a male aged 40–49. They have spent most of their life in Aichi (Chukyo, Eastern Japan). Ranks the sushi as: 3 7 8 9 0 2 1 4 5 6
+User 6325 is a male aged 30–39. They have spent most of their life in Hokkaido (Hokkaido, Eastern Japan). Ranks the sushi as: 4 0 7 3 1 5 8 6 9 2
+User 8540 is a female aged 20–29. They have spent most of their life in Gifu (Chukyo, Eastern Japan). Ranks the sushi as: 7 1 2 4 8 0 5 6 9 3
+User 5589 is a male aged 30–39. They grew up in Fukushima (Tohoku, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 0 3 1 7 6 8 5 4 9
+User 3 is a male aged 30–39. They grew up in Osaka (Kinki, Western Japan), but currently live in Ibaraki (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 3 8 2 7 4 0 9 1 5 6
+User 1605 is a female aged 40–49. They grew up in Osaka (Kinki, Western Japan), but currently live in Hokkaido (Hokkaido, Eastern Japan). Ranks the sushi as: 4 1 7 5 2 8 0 3 9 6
+User 1352 is a female aged 30–39. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 5 1 7 3 2 0 6 8 9
+User 10055 is a female aged 20–29. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 5 7 2 0 9 8 1 3 6 4
+User 3153 is a male aged 40–49. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 3 7 5 6 1 8 2 4 9
+User 5923 is a male aged 30–39. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 1 4 0 2 5 7 8 9 3 6
+User 9170 is a female aged 40–49. They have spent most of their life in Shizuoka (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 7 8 2 0 4 3 1 6 9
+User 3141 is a male aged 30–39. They grew up in Miyagi (Tohoku, Eastern Japan), but currently live in Yamagata (Tohoku, Eastern Japan). Ranks the sushi as: 7 4 5 3 2 1 8 0 9 6
+User 8696 is a female aged 40–49. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 2 3 0 8 1 5 9 4 6
+User 9289 is a female aged 15–19. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 1 7 4 2 5 0 8 6 3 9
+User 9126 is a female aged 30–39. They grew up in Tottori (Chugoku, Western Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 7 4 0 3 9 8 5 6 2 1
+User 4281 is a male aged 50–59. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 2 1 8 4 0 9 5 3 6
+User 1659 is a male aged 30–39. They grew up in Toyama (Hokuriku, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 2 4 8 5 0 9 1 3 6
+User 3755 is a male aged 30–39. They have spent most of their life in Nagano (Nagano and Yamanashi, Eastern Japan). Ranks the sushi as: 7 2 5 0 4 8 3 6 9 1
+User 1172 is a female aged 30–39. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 4 5 1 0 2 6 8 3 9
+User 4835 is a male aged 20–29. They grew up in Tokushima (Shikoku, Western Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 4 7 5 1 3 0 2 8 9 6
+User 8379 is a female aged 20–29. They grew up in Akita (Tohoku, Eastern Japan), but currently live in Hokkaido (Hokkaido, Eastern Japan). Ranks the sushi as: 0 6 3 9 1 7 2 8 5 4
+User 8296 is a female aged 20–29. They grew up in Tokyo (Kanto and Shizuoka, Eastern Japan), but currently live in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 3 9 0 6 2 8 7 1 4
+User 6627 is a male aged 40–49. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 3 4 5 0 1 2 8 9 6
+User 8317 is a female aged 50–59. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 0 2 5 4 3 8 1 9 6
+User 8066 is a female aged 20–29. They grew up in Kanagawa (Kanto and Shizuoka, Eastern Japan), but currently live in Akita (Tohoku, Eastern Japan). Ranks the sushi as: 9 2 0 3 8 4 5 1 7 6
+User 1776 is a female aged 30–39. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 7 3 0 2 6 8 1 9 4
+User 8719 is a female aged 20–29. They grew up in Miyagi (Tohoku, Eastern Japan), but currently live in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 5 0 2 6 8 4 9 3 1
+User 3123 is a male aged 30–39. They have spent most of their life in Kanagawa (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 2 7 4 5 8 0 6 1 9 3
+User 8885 is a female aged 40–49. They have spent most of their life in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 7 2 5 1 3 8 0 9 6
+User 5287 is a male aged 30–39. They grew up in Chiba (Kanto and Shizuoka, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 1 2 7 3 8 6 0 4 9
+User 9110 is a female aged 40–49. They have spent most of their life in Chiba (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 4 1 7 0 5 2 8 6 3 9
+User 9460 is a female aged 20–29. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 8 7 3 2 1 5 4 0 9 6
+User 8097 is a female aged 20–29. They have spent most of their life in Saitama (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 0 5 8 7 6 1 9 2 4 3
+User 9682 is a female aged 20–29. They grew up in Nagasaki (Kyushu, Western Japan), but currently live in Hyogo (Kinki, Western Japan). Ranks the sushi as: 4 7 5 0 1 2 8 9 6 3
+User 8348 is a female aged 30–39. They grew up in Chiba (Kanto and Shizuoka, Eastern Japan), but currently live in Hokkaido (Hokkaido, Eastern Japan). Ranks the sushi as: 6 8 7 4 5 2 0 3 9 1
+User 1374 is a female aged 40–49. They have spent most of their life in Tochigi (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 5 1 3 7 8 2 0 9 4 6
+User 9848 is a female aged 30–39. They grew up in Gunma (Kanto and Shizuoka, Eastern Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 4 7 3 0 2 5 8 9 6 1
+User 3835 is a male aged 30–39. They have spent most of their life in Osaka (Kinki, Western Japan). Ranks the sushi as: 5 7 3 6 0 4 2 8 9 1
+User 4249 is a male aged 40–49. They grew up in Chiba (Kanto and Shizuoka, Eastern Japan), but currently live in Tokyo (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 2 0 8 1 3 5 6 9 4
+User 6747 is a male aged 30–39. They have spent most of their life in Niigata (Hokuriku, Eastern Japan). Ranks the sushi as: 7 2 5 0 4 3 8 1 6 9
+User 1284 is a female aged 30–39. They have spent most of their life in Hiroshima (Chugoku, Western Japan). Ranks the sushi as: 1 7 2 8 0 5 4 6 3 9
+User 1901 is a female aged 40–49. They grew up in Kanagawa (Kanto and Shizuoka, Eastern Japan), but currently live in Tochigi (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 7 4 5 8 2 3 0 9 6 1
+User 4913 is a male aged 20–29. They grew up in Kumamoto (Kyushu, Western Japan), but currently live in Osaka (Kinki, Western Japan). Ranks the sushi as: 7 1 4 2 5 8 3 6 0 9
+User 8797 is a female aged 30–39. They have spent most of their life in Shizuoka (Kanto and Shizuoka, Eastern Japan). Ranks the sushi as: 6 7 0 9 2 1 8 3 5 4
