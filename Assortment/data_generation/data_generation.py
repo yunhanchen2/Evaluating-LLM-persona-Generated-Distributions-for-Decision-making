@@ -36,6 +36,7 @@ def main():
     sushi_file = "src/sushi_i_a.txt"
     sample_file = "src/prompt_persona.txt"
     sushi_count = 10
+    os.makedirs("results", exist_ok=True)
 
     # get the name of output files
     if DIS == 1:
