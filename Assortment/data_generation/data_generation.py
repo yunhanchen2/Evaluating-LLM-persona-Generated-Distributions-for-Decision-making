@@ -42,10 +42,10 @@ def main():
         n_users = 600
         if STR == 1:
             output_txt = "results/no_steering_1.txt"
-        elif STR == 3:
-            output_txt = "results/persona_steering_1.txt"
         elif STR == 2:
             output_txt = "results/few_shot_steering_1.txt"
+        elif STR == 3:
+            output_txt = "results/persona_steering_1.txt"
         elif STR == 4:
             output_txt = "results/persona_few_shot_steering_1.txt"
     elif DIS == 2:
