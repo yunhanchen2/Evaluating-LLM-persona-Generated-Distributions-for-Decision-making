@@ -1,11 +1,8 @@
 from io_utils import *
 from stats_utils import *
-from matrics import *
+from metrics import *
 import os
 import csv, random, numpy as np, matplotlib.pyplot as plt
-
-os.environ["GRB_LICENSE_FILE"] = "gurobi.lic"
-
 
 def function_caller(A, B, k, cost_range_index=0, cost_max=0):
     if k==1:
