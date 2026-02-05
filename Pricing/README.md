@@ -7,7 +7,7 @@
    The dataset includes 3 chocolate types (Bohol, Davao, and Improved Bicol), each presented under 2 information conditions (award and origin), resulting in 6 products in total. 
 The dataset contains willingness-to-pay responses from 204 participants for these 6 products.
 
-We use the first 100 participants are used as ground truth.
+We use the first 100 participants as ground truth.
 
    **Please** download and preprocess the baseline or helper data before proceeding to data generation or data quality evaluation by running:
    ```bash
@@ -16,7 +16,7 @@ We use the first 100 participants are used as ground truth.
   
 2. **Generate**:
 
-   💡 We provide eight generation methods: Sampling, Few-shot Sampling, Persona Sampling, Persona Few-shot Sampling, Batch, Few-shot Batch, Description and Few-shot Description, combined with four models.
+   💡 We provide 8 generation methods: Sampling, Few-shot Sampling, Persona Sampling, Persona Few-shot Sampling, Batch, Few-shot Batch, Description and Few-shot Description, combined with 4 models.
 
    `data_generation.py` is used to generate data and is the only script that needs to be executed.
    Following task-specific instructions, users may choose any supported model and generation strategy.
@@ -37,7 +37,7 @@ We use the first 100 participants are used as ground truth.
 
 4. **Evaluation**:
 
-   💡 We provide 5 metrics: MAE, KS Distance, Wasserstein Distance, AverageCR (with three cost range: 0-32; 0-66; 0-100), and WorstCR (with max cost of 32 and 66).
+   💡 We provide 5 metrics: MAE, KS Distance, Wasserstein Distance, AverageCR (with 3 cost ranges: 0-32; 0-66; 0-100), and WorstCR (with max cost of 32 and 66).
    All methods are applied to 20 distributions, and we report the mean and 95% confidence interval.
 
    `data_quality.py` is used to evaluate data quality and is the only script that needs to be executed.
