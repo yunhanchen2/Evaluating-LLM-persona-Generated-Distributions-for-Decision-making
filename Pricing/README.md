@@ -2,9 +2,12 @@
 
 1. **Data**: 🍫 . ([source](https://www.kamishima.net/sushi/))
    
-   We use ... (name of data) TODO
-The dataset contains ... TODO
-We use ... (subset) TODO
+   We use willingness-to-pay data for cocoa liquor products in the Philippines.
+
+   The dataset includes 3 chocolate types (Bohol, Davao, and Improved Bicol), each presented under 2 information conditions (award and origin), resulting in 6 products in total. 
+The dataset contains willingness-to-pay responses from 204 participants for these 6 products.
+
+We use the first 100 participants are used as ground truth.
 
    **Please** download and preprocess the baseline or helper data before proceeding to data generation or data quality evaluation by running:
    ```bash
