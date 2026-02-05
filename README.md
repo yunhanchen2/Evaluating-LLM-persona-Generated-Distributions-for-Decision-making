@@ -25,61 +25,18 @@ cd <repository_name>
 
 ---
 
-### Step 2. Enter a dataset directory
+### Step 2. 
 
-Each decision problem is organized in a separate folder. Choose one dataset to work with.
+Choose one decision problem and navigate to the corresponding directory.
+We provide three decision problems in this repository:
+- **Assortment**
+- **Pricing**
+- **Newsvendor**
 
+Then, follow the instructions provided in the README file of the selected problem.
+
+For example, to work on the Newsvendor problem:
 ```bash
-cd Assortment
+cd Newsvendor
 ```
-
-```bash
-cd Pricing
-```
-
----
-
-### Step 3. Configure the dataset
-
-Run the configuration script inside the dataset directory to prepare data files and directory structure.
-
-```bash
-bash run.sh
-```
-
----
-
-### Step 4. Choose the task type
-
-After configuration, choose whether to perform data generation or data quality evaluation.
-
-```bash
-cd data_generation
-```
-
-```bash
-cd data_quality
-```
-
----
-
-### Step 5. Run the main script
-
-Each task folder contains a main Python script with the same name as the folder.
-
-```bash
-python data_generation.py
-```
-
-```bash
-python data_quality.py
-```
-
----
-
-### Step 6. Follow interactive prompts
-
-Follow the on-screen prompts to select the model, method, steering strategy, and other task-specific options.
-
-All outputs will be saved automatically to the corresponding `results/` directory.
 
