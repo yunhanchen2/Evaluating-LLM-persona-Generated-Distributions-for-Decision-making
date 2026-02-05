@@ -64,6 +64,11 @@ def main():
     else:
         raise ValueError("MODE must be 1, 2, or 3")
 
+    if DIS == 1 and STR in (2, 4):
+        repeat_times = 5
+    else:
+        repeat_times = 1
+
 
     example = sample_fewshot_lines(6, INFO)
 
@@ -77,21 +82,22 @@ def main():
 
     if DIS == 1:
         with open(output_txt, "w", encoding="utf-8") as out:
-            for idx, user in enumerate(tqdm(users, desc="Personas")):
-                prompt = build_prompt(user, product, DIS, STR, example)
-                full = get_gpt_premiums(prompt, MODEL)
-                print(f"\n--- LLM OUTPUT ---")
-                print(full)
+            for r in range(repeat_times):
+                for idx, user in enumerate(tqdm(users, desc=f"Personas (round {r+1}/{repeat_times})")):
+                    prompt = build_prompt(user, product, DIS, STR, example)
+                    full = get_gpt_premiums(prompt, MODEL)
+                    print(f"\n--- LLM OUTPUT ---")
+                    print(full)
 
-                nums = extract_premiums_from_text(full)
+                    nums = extract_premiums_from_text(full)
 
-                if nums is not None and len(nums) == 3:
-                    clean_line = f"{nums[0]}\t{nums[1]}\t{nums[2]}"
-                else:
-                    print(f"Invalid output (need exactly 3 numbers) for line")
-                    clean_line = "ERROR"
+                    if nums is not None and len(nums) == 3:
+                        clean_line = f"{nums[0]}\t{nums[1]}\t{nums[2]}"
+                    else:
+                        print(f"Invalid output (need exactly 3 numbers) for line")
+                        clean_line = "ERROR"
 
-                out.write(clean_line + "\n")
+                    out.write(clean_line + "\n")
 
     elif DIS == 2:
         print(f"[INFO] n_groups={n_groups}, n_per_call={n_per_call}")
