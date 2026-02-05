@@ -1,6 +1,6 @@
-# Assortment Optimization
+# Pricing Optimization
 
-1. **Data**: 🍣 Sushi preference dataset collected via a questionnaire survey of respondents in Japan. ([source](https://www.kamishima.net/sushi/))
+1. **Data**: 🍫 . ([source](https://www.kamishima.net/sushi/))
    
    We use sushi preference orderings over an item set A, consisting of the first 10 sushi items in the sushi list.
 The dataset contains 5,000 preference rankings in total.
