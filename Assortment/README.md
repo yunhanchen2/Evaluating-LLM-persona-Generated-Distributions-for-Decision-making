@@ -6,14 +6,14 @@
 The dataset contains 5,000 preference rankings in total.
 We use the first 600 rankings as ground truth, and the remaining data are used as out-of-bag samples.
 
-**Please** download and preprocess the baseline or helper data before proceeding to data generation or data quality evaluation   by running:
-```bash
-bash run.sh
-```
+   **Please** download and preprocess the baseline or helper data before proceeding to data generation or data quality evaluation by running:
+   ```bash
+   bash run.sh
+   ```
   
 2. **Generate**:
 
-   💡 We provide eight generation methods: Sampling, Few-shot Sampling, Persona Sampling, Persona Few-shot Sampling, Batch, Few-shot Batch, Description and Few-shot Description, combined with four models.
+   💡 We provide 8 generation methods: Sampling, Few-shot Sampling, Persona Sampling, Persona Few-shot Sampling, Batch, Few-shot Batch, Description and Few-shot Description, combined with 4 models.
 
    `data_generation.py` is used to generate data and is the only script that needs to be executed.
    Following task-specific instructions, users may choose any supported model and generation strategy.
@@ -34,7 +34,7 @@ bash run.sh
 
 4. **Evaluation**:
 
-   💡 We provide four metrics: Kendall–Tau Distance, Wasserstein Distance, AverageCR (with three budget–cost configurations), and WorstCR.
+   💡 We provide 4 metrics: Kendall–Tau Distance, Wasserstein Distance, AverageCR (with three budget–cost configurations), and WorstCR.
    All methods are applied to 20 distributions, and we report the mean and 95% confidence interval.
 
    `data_quality.py` is used to evaluate data quality and is the only script that needs to be executed.
