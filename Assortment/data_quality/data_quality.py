@@ -1,6 +1,6 @@
 from io_utils import *
 from stats_utils import *
-from matrics import *  
+from metrics import *  
 import os
 import csv, random, numpy as np, matplotlib.pyplot as plt
 from matrics.avgcr import compute_costs
