@@ -9,32 +9,74 @@ export OPENAI_API_KEY="YOUR_OPENAI_API_KEY"   # gpt-4o, gpt-5-mini
 export GOOGLE_API_KEY="YOUR_GOOGLE_API_KEY"   # gemini-3-flash-preview
 export MISTRAL_API_KEY="YOUR_MISTRAL_API_KEY" # mistral-large-latest
 
-## Usage
+---
+
+### Step 1. Clone the repository
+
+Clone the repository and enter the project root directory.
 
 ```bash
-## 1. Clone the repository
 git clone <repository_url>
 cd <repository_name>
+```
 
-## 2. Enter a dataset directory (choose one)
+---
+
+### Step 2. Enter a dataset directory
+
+Each decision problem is organized in a separate folder. Choose one dataset to work with.
+
+```bash
 cd Assortment
-# or
+```
+
+```bash
 cd Pricing
+```
 
-## 3. Configure the dataset
+---
+
+### Step 3. Configure the dataset
+
+Run the configuration script inside the dataset directory to prepare data files and directory structure.
+
+```bash
 bash run.sh
+```
 
-## 4. Choose task type after configuration
-# (data generation or data quality evaluation)
+---
+
+### Step 4. Choose the task type
+
+After configuration, choose whether to perform data generation or data quality evaluation.
+
+```bash
 cd data_generation
-# or
+```
+
+```bash
 cd data_quality
+```
 
-## 5. Run the main script (same name as the folder)
+---
+
+### Step 5. Run the main script
+
+Each task folder contains a main Python script with the same name as the folder.
+
+```bash
 python data_generation.py
-# or
-python data_quality.py
+```
 
-## 6. Follow interactive prompts to select the desired task
-# (model, method, steering strategy, etc.)
-# All outputs will be saved to the corresponding results/ directory
+```bash
+python data_quality.py
+```
+
+---
+
+### Step 6. Follow interactive prompts
+
+Follow the on-screen prompts to select the model, method, steering strategy, and other task-specific options.
+
+All outputs will be saved automatically to the corresponding `results/` directory.
+
