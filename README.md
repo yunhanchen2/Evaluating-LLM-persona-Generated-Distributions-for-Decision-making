@@ -8,6 +8,7 @@ Set the following environment variables before running any experiments:
 export OPENAI_API_KEY="YOUR_OPENAI_API_KEY"   # gpt-4o, gpt-5-mini
 export GOOGLE_API_KEY="YOUR_GOOGLE_API_KEY"   # gemini-3-flash-preview
 export MISTRAL_API_KEY="YOUR_MISTRAL_API_KEY" # mistral-large-latest
+```
 
 ---
 
@@ -20,6 +21,7 @@ export MISTRAL_API_KEY="YOUR_MISTRAL_API_KEY" # mistral-large-latest
 ```bash
 git clone <repository_url>
 cd <repository_name>
+```
 
 ---
 
