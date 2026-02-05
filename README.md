@@ -13,18 +13,13 @@ export MISTRAL_API_KEY="YOUR_MISTRAL_API_KEY" # mistral-large-latest
 
 ## Usage
 
-Follow the steps below to run experiments in this repository.
-
 ---
 
 ### Step 1. Clone the repository
 
-Clone the repository and enter the project root directory.
-
 ```bash
 git clone <repository_url>
 cd <repository_name>
-```
 
 ---
 
