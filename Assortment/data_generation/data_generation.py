@@ -2,6 +2,7 @@ from tqdm import tqdm
 from steering_methods import *
 from models import *
 from io_utils import *
+import os
 
 # check whether there are 10 sushi in a line
 def parse_one_line_ranking(ranking_full: str, sushi_count=10):
