@@ -1,13 +1,13 @@
 # Pricing Optimization
 
-1. **Data**: 🍫 . ([source](https://www.kamishima.net/sushi/))
+1. **Data**: 🍫 Experimental and survey data capturing the impact of sensory cues, award and origin labels on willingness-to-pay for Philippine tablea (cocoa liquor). ([source](https://www.kamishima.net/sushi/))
    
    We use willingness-to-pay data for cocoa liquor products in the Philippines.
 
    The dataset includes 3 chocolate types (Bohol, Davao, and Improved Bicol), each presented under 2 information conditions (award and origin), resulting in 6 products in total. 
 The dataset contains willingness-to-pay responses from 204 participants for these 6 products.
 
-We use the first 100 participants as ground truth.
+   We use the first 100 participants as ground truth.
 
    **Please** download and preprocess the baseline or helper data before proceeding to data generation or data quality evaluation by running:
    ```bash
