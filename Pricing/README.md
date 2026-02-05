@@ -2,14 +2,14 @@
 
 1. **Data**: 🍫 . ([source](https://www.kamishima.net/sushi/))
    
-   We use sushi preference orderings over an item set A, consisting of the first 10 sushi items in the sushi list.
-The dataset contains 5,000 preference rankings in total.
-We use the first 600 rankings as ground truth, and the remaining data are used as out-of-bag samples.
+   We use ... (name of data) TODO
+The dataset contains ... TODO
+We use ... (subset) TODO
 
-**Please** download and preprocess the baseline or helper data before proceeding to data generation or data quality evaluation   by running:
-```bash
-bash run.sh
-```
+   **Please** download and preprocess the baseline or helper data before proceeding to data generation or data quality evaluation by running:
+   ```bash
+   bash run.sh
+   ```
   
 2. **Generate**:
 
@@ -34,7 +34,7 @@ bash run.sh
 
 4. **Evaluation**:
 
-   💡 We provide four metrics: Kendall–Tau Distance, Wasserstein Distance, AverageCR (with three budget–cost configurations), and WorstCR.
+   💡 We provide 5 metrics: MAE, KS Distance, Wasserstein Distance, AverageCR (with three cost range: 0-32; 0-66; 0-100), and WorstCR (with max cost of 32 and 66).
    All methods are applied to 20 distributions, and we report the mean and 95% confidence interval.
 
    `data_quality.py` is used to evaluate data quality and is the only script that needs to be executed.
