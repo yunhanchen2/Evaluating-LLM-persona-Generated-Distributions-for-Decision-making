@@ -34,7 +34,7 @@ We use the first 600 rankings as ground truth, and the remaining data are used a
 
 4. **Evaluation**:
 
-   💡 We provide 4 metrics: Kendall–Tau Distance, Wasserstein Distance, AverageCR (with three budget–cost configurations), and WorstCR.
+   💡 We provide 4 metrics: Kendall–Tau Distance, Wasserstein Distance, AverageCR (with 3 budget–cost configurations), and WorstCR.
    All methods are applied to 20 distributions, and we report the mean and 95% confidence interval.
 
    `data_quality.py` is used to evaluate data quality and is the only script that needs to be executed.
