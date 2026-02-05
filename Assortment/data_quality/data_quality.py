@@ -3,7 +3,7 @@ from stats_utils import *
 from metrics import *  
 import os
 import csv, random, numpy as np, matplotlib.pyplot as plt
-from matrics.avgcr import compute_costs
+from metrics.avgcr import compute_costs
 
 
 os.environ["GRB_LICENSE_FILE"] = "gurobi.lic"
