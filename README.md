@@ -35,7 +35,7 @@ cd <repository_name>
 ### Step 2. 
 
 Choose one decision problem and navigate to the corresponding directory.
-We provide three decision problems in this repository:
+We provide 3 decision problems in this repository:
 - **🍣 Assortment**
 - **🍫 Pricing**
 - **👖 Newsvendor**
