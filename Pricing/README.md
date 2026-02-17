@@ -1,6 +1,6 @@
 # Pricing Optimization
 
-1. **Data**: 🍫 Experimental and survey data capturing the impact of sensory cues, award and origin labels on willingness-to-pay for Philippine tablea (cocoa liquor). ([source](https://www.kamishima.net/sushi/))
+1. **Data**: 🍫 Experimental and survey data capturing the impact of sensory cues, award and origin labels on willingness-to-pay for Philippine tablea (cocoa liquor). ([source](https://data.mendeley.com/datasets/7c5vfsgcnz/1))
    
    We use willingness-to-pay data for cocoa liquor products in the Philippines.
 
