@@ -11,12 +11,6 @@
 
    The relatent code of data preprocessing is in file: `Newsvendor_data_generation.ipynb`
 
-   2. Follow task-specific instructions
-
-⚠️ Note:
-   * Different models require corresponding API keys to be configured before running the script (e.g., `OPENAI_API_KEY`).
-   * Avoid mixing multiple models within the same run, as outputs in the `results/` directory may be overwritten.
-
 3. **Evaluation**:
 💡 The relatent code of data preprocessing is in file: `Newsvendor_data_result.ipynb`
 
