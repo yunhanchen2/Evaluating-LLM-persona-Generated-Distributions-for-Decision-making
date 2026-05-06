@@ -9,9 +9,7 @@
 3. **Generate**:
 💡 Unlike the assortment and pricing tasks, the newsvendor setting is structurally different: a single observation is a weekly demand realization for an item rather than a choice or valuation by an individual. The "human simulation" paradigm is therefore less applicable, and we omit the agent-based sampling methods.
 
-   We provide 1 generation method: **Descriptive with Few-shot examples**, combined with 4 models. For each target item, the LLM is prompted with the item's metadata and a reference set of 100 other items (including their metadata and historical demand parameters), and asked to predict the **mean** and **standard deviation** of a normal distribution corresponding to the item's weekly demand.
-
-   We also include a **Random baseline** which uses the empirical distribution of demands aggregated over all 300 items.
+   The relatent code of data preprocessing is in file: `Newsvendor_data_generation.ipynb`
 
    2. Follow task-specific instructions
 
@@ -20,7 +18,8 @@
    * Avoid mixing multiple models within the same run, as outputs in the `results/` directory may be overwritten.
 
 3. **Evaluation**:
-💡 `Newsvendor_result.ipynb` is used to evaluate data quality. 
+💡 The relatent code of data preprocessing is in file: `Newsvendor_data_result.ipynb`
+
 
   
 
