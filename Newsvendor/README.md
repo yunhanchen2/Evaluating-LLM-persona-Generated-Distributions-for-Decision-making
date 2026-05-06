@@ -1,6 +1,6 @@
 # Newsvendor
 
-1. **Data**: 👖 This dataset consists of H&M fashion retailer sales data (Ling et al., 2022), preprocessed to retain 300 trouser items with their weekly demand over 30 weeks under stable prices. (__[source]([https://data.mendeley.com/datasets/7c5vfsgcnz/1](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data?select=articles.csv))__)
+1. **Data**: 👖 This dataset consists of H&M fashion retailer sales data (Ling et al., 2022), preprocessed to retain 300 trouser items with their weekly demand over 30 weeks under stable prices. (__[source]([https://data.mendeley.com/datasets/7c5vfsgcnz/1](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data?select=articles.csv)__)
    
    For each item, we use the empirical distribution of its 30 weekly demand observations as the ground truth $F$. Each item is associated with metadata such as product name, type, and color.
 
