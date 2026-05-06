@@ -4,7 +4,7 @@
    
    For each item, we use the empirical distribution of its 30 weekly demand observations as the ground truth $F$. Each item is associated with metadata such as product name, type, and color.
 
-   The relatent code of data preprocessing is in file: `Newsvendor_data_pre.py`
+   The relatent code of data preprocessing is in file: `Newsvendor_data_pre.ipynb`
 
 3. **Generate**:
 💡 Unlike the assortment and pricing tasks, the newsvendor setting is structurally different: a single observation is a weekly demand realization for an item rather than a choice or valuation by an individual. The "human simulation" paradigm is therefore less applicable, and we omit the agent-based sampling methods.
