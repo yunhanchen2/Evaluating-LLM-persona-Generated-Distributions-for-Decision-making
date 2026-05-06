@@ -4,7 +4,9 @@
    
    For each item, we use the empirical distribution of its 30 weekly demand observations as the ground truth $F$. Each item is associated with metadata such as product name, type, and color.
 
-2. **Generate**:
+   The relatent code of data preprocessing is in file: `Newsvendor_data_pre.py`
+
+3. **Generate**:
 💡 Unlike the assortment and pricing tasks, the newsvendor setting is structurally different: a single observation is a weekly demand realization for an item rather than a choice or valuation by an individual. The "human simulation" paradigm is therefore less applicable, and we omit the agent-based sampling methods.
 
    We provide 1 generation method: **Descriptive with Few-shot examples**, combined with 4 models. For each target item, the LLM is prompted with the item's metadata and a reference set of 100 other items (including their metadata and historical demand parameters), and asked to predict the **mean** and **standard deviation** of a normal distribution corresponding to the item's weekly demand.
