@@ -1,6 +1,6 @@
-# Pricing Optimization
+# Newsvendor
 
-1. **Data**: 🍫 Experimental and survey data capturing the impact of sensory cues, award and origin labels on willingness-to-pay for Philippine tablea (cocoa liquor). ([source](https://data.mendeley.com/datasets/7c5vfsgcnz/1))
+1. **Data**: 👖 This dataset consists of H&M fashion retailer sales data, preprocessed to retain 300 trouser items with their weekly demand over 30 weeks under stable prices. ([source](https://data.mendeley.com/datasets/7c5vfsgcnz/1))
    
    We use willingness-to-pay data for cocoa liquor products in the Philippines.
 
