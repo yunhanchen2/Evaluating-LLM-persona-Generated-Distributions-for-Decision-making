@@ -20,20 +20,7 @@
    * Avoid mixing multiple models within the same run, as outputs in the `results/` directory may be overwritten.
 
 3. **Evaluation**:
-💡 We provide . All methods are applied to 20 distributions, and we report the mean and 95% confidence interval.
+💡 `Newsvendor_result.ipynb` is used to evaluate data quality. 
 
-`data_quality.py` is used to evaluate data quality and is the only script that needs to be executed. Following task-specific instructions, users may choose the evaluation method.
-
-All mean values and confidence intervals are printed to the terminal.
-📌 Usage:
-   1. Prepare all data and store them in `src/`. (We upload the generated data by default; users may also provide their own.)
-   2. Run `data_quality.py`:
-
-```
-python3 data_quality.py
-```
-
-   3. Follow the task-specific instructions in the script.
-
-
+  
 
